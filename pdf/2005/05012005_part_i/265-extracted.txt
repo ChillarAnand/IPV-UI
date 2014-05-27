@@ -1,0 +1,42 @@
+Date of filing of application number => 04/07/2001
+Title => A SYSTEM AND METHOD FOR TESTING AND VALIDATING DEVICES HAVING AN EMBEDDED OPERATING SYSTEM. 
+ 
+
+International Classification => G 06 F 11/00 (71) 
+Abstract => A system and method for improving quality assurance, 
+imparting many person-months of time and cost 
+savings, and streamlining the product development 
+process of target device utilizing commercially 
+available operating systems, such as Windows CE, 
+includes a testing device which applies a suite of 
+comprehensive validation test programs. This system 
+and method, an O/S Validator (1), provides a fully 
+automated design verification package for 
+commercially available operating systems (1000a), 
+Windows CE, by utilizing a host graphical user 
+interface harness (12), a host to target communications 
+(3), at least one test suite (11), and a result capture 
+methodology (12). The O/S Validator (1) provides a 
+faster and more accurate automated test suite 
+technology for testing a port of a commercially 
+available operating systems (1000a), such as Windows 
+CE, to target hardware (1000, 9). In addition, O/S 
+Validator (1) includes a comprehensive code-base 
+developed specifically to purposefully stress the 
+operating system O/S, device driver, OEM Adaptation 
+Layer (OAL), 
+  
+ 
+ 
+ 
+ 
+and hardware interaction. The test suites (11) 
+focus on identifying three primary defects 
+including hardware design, hardware 
+programming (drivers/OAL), and operating 
+system interaction. Special diagnostic emphasis 
+is placed on operating subsystems which have 
+historically demonstrated the most problems.      
+ 
+Figure : 04.       TOTAL PAGES : 38. 
+

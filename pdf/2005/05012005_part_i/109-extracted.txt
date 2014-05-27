@@ -1,0 +1,39 @@
+Date of filing of application number => 15/01/2001
+Title => OPTICAL WAVEGUIDE WITH DISSIMILAR CORE AND 
+CLADDING MATERIALS, AND LIGHT EXITTING DEVICE 
+EXPLOYING THE SAME 
+ 
+
+International Classification => H01S 3/06 
+Name of inventor => 1. LAWRENCE, BRIAN L. 
+2. MCCALLION KEVIN J. 
+ 
+ 
+  
+ 
+ 
+ 
+
+Abstract => An optical waveguide, radiation emitting 
+device employing the same, and process for fabricating the 
+radiation emitting device are provided. The optical 
+waveguide has a core (12) fabricated of a first material with 
+a first index of refraction and cladding (14) surrounding the 
+core (12) fabricated of a second material with a second 
+index of refraction. The core is an active material which 
+emits radiation at a desired wavelength when pumped with 
+radiation of a predetermined wavelength, and the first 
+material and second material are dissimilar materials (R1, 
+R2), having been separately fabricated and subsequently 
+physically assembled as the waveguide. The light emitting 
+device employing the optical waveguide is configured 
+either as an amplified spontaneous emission (ASE) source 
+or laser source employing appropriate reflective materials 
+at the ends of the optical waveguide. 
+ 
+ 
+Figure: 2. 
+ 
+  
+ 
+

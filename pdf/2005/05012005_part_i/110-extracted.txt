@@ -1,0 +1,39 @@
+Date of filing of application number => 15/01/2001
+Title => METHOD FOR FABRICATING AN OPTICAL WAVEGUIDE 
+ 
+
+International Classification => G02B 6/12 
+Name of inventor => 1. MCCALLION KEVIN J. 
+2. LAWRENCE BRIAN L. 
+3. WAGONER GREGORY A. 
+4. QUANTOCK PAUL R. 
+5. SCHULZE JOHN L. 
+ 
+  
+ 
+ 
+ 
+
+Abstract => The method for fabricating an optical 
+waveguide may include a plurality of mechanical steps, 
+e.g., lapping, polishing, and/or dicing, and bonding steps, 
+e.g., attaching with adhesives. In one embodiment, the 
+method includes the steps of providing an optical material 
+(20), thinning and polishing the optical material to form an 
+optical waveguide core (12) comprising a plurality of 
+longitudinally extending surfaces, providing a plurality of 
+support substrates (30, 50, 90, 110), and attaching the 
+plurality of support substrates to the longitudinally 
+extending surfaces of the core (12). The plurality of support 
+substrates may be attached to the plurality of longitudinally 
+extending surfaces of the optical material with an adhesive. 
+The optical material may include a high refractive index, 
+and the plurality of support substrates and/or the adhesive 
+may include a low refractive index. 
+ 
+ 
+Figure: 1. 
+ 
+  
+ 
+

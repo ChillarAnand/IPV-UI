@@ -1,0 +1,24 @@
+Date of filing of application number => 11/10/2001
+Title => SYSTEM AND METHOD FOR MODELING GENETIC, BIOCHEMICAL, BIOPHYSICAL AND ANATOMICAL INFORMAITON 
+ 
+
+Priority Doc No => 09/295,503   
+Priority date => 21/04/1999
+Name of priority country => U.S.A.  
+International Publication Number => WO 00/65523 A1  
+Abstract => Genetic, biochemical, biophysical and anatomical information is integrated at the cellular and subcellular 
+level.  At least one database containing biological information is used to generate at least one data 
+structure having at least one attribute associated therewith. An interface interactively views and links 
+together attributes of a plurality of data structures to create at least one hierarchical description of 
+subcellular and cellular function.  A computational engine generates at least one mathematical equation 
+from the hierarchical description.  Genetic information is accessed, tabulated and combined with 
+functional information on the biochemical and physiological role of gene products.  Computational 
+models of genetic, biochemical and biophysical processes within cells are automatically formulated, 
+solved and analysed based on combination of genetic and functional information adduced.  A dynamic 
+tool is thereby provided for achieving objectives, such as increased understanding of biological processes, 
+identification of new drug targets for therapeutic intervention and prediction involving the outcome of 
+drug screening. 
+ 
+(FIG.: NIL) 
+Total Pages: 49.
+

@@ -1,0 +1,23 @@
+Date of filing of application number => 02/08/2001
+Title => ARSENIC PROMOTED VANADIUM-ANTIMONY-OXIDE BASED CATALYST FOR SELECTIVE PARAFFIN AMMOXIDATION 
+ 
+
+Priority Doc No => 09/246,266  
+Priority date => 08/02/1999
+Name of priority country => U.S.A.  
+International Publication Number => WO 00/46185 (72) 
+Abstract => A process of manufacturing acrylonitrile or methacrylonitrile by the catalytic reaction in the vapor 
+phase of a paraffin selected from propane and isobutene with molecular oxygen and ammonia by 
+catalytic contact of the reactants in a reaction zone with a catalyst, the feed composition having a 
+mole ratio of the paraffin to ammonia in the range of from about 2.5 to 16 and a mole ratio of 
+paraffin to oxygen in the range of from about 1.0 to 10, wherein said catalyst has the elements in the 
+proportions indicated by the empirical formula: VSBmAaDbQqRrOx where A is one or more of Ti, Sn, 
+Fe, Cr and Ga; D is one or more of Li, Mg, Ca, Sr, Ba, Co, Ni, Zn, Ge, Zr, Cu, Ta, Bi, Ce, In, B and 
+Mn; Q is one or more of Mo, W, and Nb; R is one or more of As, Te, and Se; m equals 0.8 to 4; a 
+equals 0.01 to 2; d is 0 to 2; 0≤q<0.01; preferably 0<q<, especially 0<q<0.005; q + r  are greater than 
+0; x is determined by the oxidation state of the cations present.  Preferably, the catalyst has been heat 
+treated at a temperature of at least 7800C and R is selected to be As and Q is selected to be Mo. 
+ 
+(FIG.: NIL) 
+Total Pages: 13
+

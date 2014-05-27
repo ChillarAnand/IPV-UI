@@ -1,0 +1,41 @@
+Date of filing of application number => 11/09/2001
+Title => SYSTEM AND METHOD FOR MAINTENANCE CHARGING 
+OF BATTERY CELLS  
+ 
+
+International Classification => HO2J 7/00 
+Name of inventor => 12. KALOGEROPOULOS 
+SARANDIS 
+13. ANDERSSON RIHARD  
+14. MERCKE JOHAN  
+15. FORSBERG CHARLES  
+16. HANSSON MAGNUS  
+17.
+ 
+WENDELRUP HEINO 
+18. WOLF MATS  
+19. PATASINSKI KRISTOFFER  
+ 
+  
+ 
+ 
+ 
+
+Abstract => A method and apparatus for maintenance 
+charging a battery is disclosed. A battery is fully charged 
+using conventional CC-CV techniques and subsequently 
+is maintenance charged by applying a first maintenance 
+voltage to the battery for a first predetermined time 
+period. If desired, a second maintenance voltage may 
+be applied to the battery for a second predetermined 
+time period. An apparatus for maintenance charging a 
+battery utilizes a timer and a charge controller to apply a 
+maintenance voltage to a battery for a predetermined 
+time period. 
+ 
+ 
+  
+Figure: 1. 
+Total Pages: - 20 
+ 
+

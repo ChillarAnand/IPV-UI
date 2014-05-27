@@ -1,0 +1,43 @@
+Date of filing of application number => 19/01/2001
+Title => PLASMAENHANCED VACUUM VAPOR DEPOSITION SYSTEMS 
+INCLUDING SYSTEMS FOR EVAPORATION OF A SOLID, 
+PRODUCING AN ELECTRIC ARC DISCHARGE AND MEASURING 
+IONIZATION AND EVAPORATION 
+ 
+
+International Classification => C23C 14/00 
+Name of inventor => 1. PLESTER GEORGE 
+2. EHRICH HORST 
+ 
+ 
+  
+ 
+ 
+ 
+
+Abstract => Apparatuses and methods for use in vacuum 
+vapor deposition coating provide for simpler, economical 
+and continuous operation. A system and method for 
+continuously melting and evaporating a solid material for 
+forming a coating vapor includes the use of a separate 
+melting crucible and evaporating crucible. A system and 
+method for energizing the evaporative solids to form a 
+plasma which includes first and second electrodes and a 
+device for selectively switching polarity between the first 
+and second electrodes to avoid coating vapor deposition on 
+the electrodes. Another system and method for energizing 
+the evaporative solids to form a plasma which includes an 
+electric arc discharge apparatus with a cathodic and an 
+anodic part. A continuously fed electrode is disclosed for 
+continuous vaporization of electrode members in an electric 
+arc discharge. An apparatus and method provides for 
+measurement of the rate of evaporation from an evaporator 
+and the degree of ionization in a vapor deposition coating 
+system. Lastly, a system is disclosed for in-situ cleaning of 
+vaporizable deposits for cleaning of the enclosure of the 
+vacuum vapor deposition system. 
+ 
+ 
+Figure: 1. 
+ 
+

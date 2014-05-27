@@ -1,0 +1,37 @@
+Date of filing of application number => 05/03/2001
+Title => METHOD AND APPARATUS FOR PRODUCING OPTICAL 
+FIBER 
+ 
+
+International Classification => C03C 37/027 
+Name of inventor => 1. CHU POLLY W. 
+2. DAHLAMAN REBECCA V. 
+3. DEJNEKA MATTHEW J. 
+4. SOLOSKY JOHN W. 
+5. WILSON OTIS L. 
+6. YOST KEVIN J. 
+ 
+  
+ 
+ 
+ 
+
+Abstract => Filament in tube and stick in tube 
+processes of forming optical fiber are described. A 
+solid or monolithic core feedstock (110) is disposed 
+in a hollow cladding structure (112) to form a 
+loosely filled cladding structure. The filled cladding 
+structure is heated to a draw temperature 
+approximately equal to the softening temperature of 
+the cladding structure. The feedstock (110) melts 
+and fills the heated portion of the cladding structure 
+forming a filled core which can then be drawn into 
+optical fiber or to an optical can which can then be 
+further overclad consolidated and drawn into fiber. 
+Feedstock (110) and cladding structures (112) 
+having widely varying coefficients of expansion 
+may be employed. The resulting fiber can be readily 
+designed to be fused to existing installed fibers. 
+Figure: 1. 
+Total Pages: - 28. 
+

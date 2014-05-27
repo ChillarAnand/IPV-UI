@@ -1,0 +1,34 @@
+Date of filing of application number => 10/09/2001
+Title => ADAPTIVE POWER CONTROL IN A RADIO 
+COMMUNICATIONS SYSTEM  
+ 
+
+International Classification => HO4B 
+Name of inventor => 7. BARK GUNNAR  
+8. MULLER WALTER 
+9. RIMHAGEN THOMAS  
+ 
+  
+ 
+ 
+ 
+
+Abstract => Delays on a common radio communications channel employed by plural mobile stations to communicate 
+with a base station located in a corresponding geographical cell area are minimized by adapting transmission 
+power based on traffic conditions. For lower traffic loads, a higher transmission power is permitted. For higher 
+traffic loads, a lower power level is set. A transmit power level is determined using a desired signal ratio, such as a 
+target CIR, a transmission path loss over the radio communications channel, and an interference value. One or 
+more adaptive power parameters are also employed in that determination to adapt the open loop power control 
+based on one or more current communications conditions and/or characteristics of the mobile station. For example, 
+an adaptive power parameter may be a function of a current interference in a base station cell either alone or in 
+combination with a current interference in one or more neighboring cells. The adaptive power parameter may also 
+account for a type of data packet connection to be employed between a mobile station and the base station after 
+random access, a mobile station's subscription, a current temperature of the mobile station, a current base station 
+used by the mobile station, a current estimated path loss between the mobile station and base station, and/or other 
+factors. 
+  
+Figure: NIL. 
+Total Pages: - 30 
+ 
+ 
+

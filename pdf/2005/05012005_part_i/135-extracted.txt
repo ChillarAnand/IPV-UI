@@ -1,0 +1,24 @@
+Date of filing of application number => 20/02/2001
+Title => IMAGE PRINTING SYSTEM 
+ 
+
+International Classification => H 04 L 29/08 (71) 
+Abstract => An image print system produces 
+precise hard copy of digital image data 
+displayed on the television screen. The 
+image print system comprises image 
+processing means (13) for processing 
+an external input image signal and 
+generating image data; image output 
+means (13) for sending a printer (5) the 
+generated image data contained in a 
+packet compliant with the IEEE (The 
+Institute of Electrical and Electronics 
+Engineers) 1394 standard; and print 
+control means (23) for controlling to 
+print the image data contained in the 
+packet delivered from the image output 
+means (13) to the printer (5). 
+  
+ 
+

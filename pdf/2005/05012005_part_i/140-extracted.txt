@@ -1,0 +1,27 @@
+Date of filing of application number => 26/02/2001
+Title => PROCESS AND SYSTEM FOR MANAGING ALTITUDE FOR AN  
+                                       AERODYNE USING THE AUTOMATIC CAPTURE OF A BAROMETRIC  
+                                       ALTITUDE OR OF A RADIOPROBE HEIGHT 
+ 
+
+International Classification => G 05 D 1/04 (71) 
+Abstract => The invention concerns a system and a method for 
+controlling the altitude of a heavier-than-air aircraft 
+which consists in particular in: selecting and 
+displaying a set altitude; acquiring the manoeuvring 
+altitude of the aircraft, in particular with first 
+measuring means corresponding to a barometric 
+mode and second radio sonde measuring means 
+corresponding to a radio sonde mode; bringing the 
+manoeuvring altitude of the aircraft to the set 
+altitude corresponding to a step for automatic 
+altitude capture; switching the set altitude from the 
+barometric mode to the radio sonde mode or from 
+the radio sonde mode to the barometric mode when 
+said set altitude is lower or respectively higher than 
+an altitude defined according to the barometric 
+mode. 
+ 
+Figure: 2. 
+ 
+

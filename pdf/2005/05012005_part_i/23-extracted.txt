@@ -1,0 +1,28 @@
+Application number => 726/MUM/2003
+Date of filing of application number => 21/07/2003
+Title => COLOR ILLUMINATION SYSTEM FOR SPATIAL LIGHT MODULATORS USING MULTIPLE DOUBLE TELECENTRIC RELAYS. 
+       
+
+International Classification => (71) 
+Abstract => A digital projection apparatus (10) for projection of a multicolor image uniformizes polychromatic light from a light source (12) and 
+provides magnification to the uniformized illumination beam using a base condenser relay (80), providing a reduced numerical aperture for conditioning 
+at a dichroic separator (27). For each monochromatic component color provided from the dichroic separator (27), a reducing relay (82) then demagnifies 
+the illumination beam to provide source illumination to a spatial light modulator (30) at an increased numerical aperture. As a result, color shading 
+across the field is minimized and brightness is optimized. 
+ 
+ 
+Figure: NIL. 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Publication After 18 months 
+ 
+The following Patent application have been published under Section 11A of the Patents 
+(Amendment) Act, 2002 
+ 
+

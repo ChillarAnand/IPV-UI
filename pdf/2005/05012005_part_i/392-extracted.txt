@@ -1,0 +1,23 @@
+Abstract => A communication system balances message traffic between return channel groups and within 
+the groups, so that the user does not control the specific transmission frequency used. Uplink frequencies and 
+bandwidths for the return channels are set by the system in a return channel control message in the broadcast 
+signal so as to account for system and return channel group laoding, and to account for user message 
+backlogs. An initial transmission from a remote user may be made using an ALOHA-type burst signal that 
+provides a message backlog to the control station, and is made on a frequency determined from a randomly 
+weighted, load-based frequency selection process. The system, and not the individual users determine the 
+frequency and channel allocations. For large backlogs or priority users, periodic bandwidth is provided. A 
+method for balancing loads among and between groups of return channels in the communication system 
+includes requesting return channel bandwidth in an uplink message from a remote user to a control station. 
+The uplink message may include both a backlog indicator and a bandwidth allocation request provided to a 
+Network Operations Center (NOC) which can be used to set the return channel bandwidth and frequency for 
+the remote uplink. A user message is transmitted on the designated return channel frequency using bandwidth 
+allocated in accordance with the backlog indicator and a bandwidth allocation request so that traffic loads are 
+maintained in balance between established return channel frequency groups, and within each return channel 
+frequency group.
+ 
+(FIG.NIL) 
+Total Pages: 62 
+ 
+ 
+ 
+

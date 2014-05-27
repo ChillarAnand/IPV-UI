@@ -1,0 +1,42 @@
+Date of filing of application number => 15/03/2001
+Title => DIGITAL ADDICTION, INC. 
+ 
+
+International Classification => GOF 15/16 
+Name of inventor => 1. HARVEY JAMES WARREN 
+2. HAM ETHAN 
+3. ROSENBAUM BENJAMIN 
+4. MOYER LEE 
+5. LEWIS JEFF 
+6.
+ 
+DEKELBAUM ROBERT 
+7. D’AMELIO MARCUS 
+8. POWER LESHE 
+ 
+  
+ 
+ 
+ 
+
+Abstract => An Information and Application Distribution System 
+(IADS) for distributing (500), initiating and allowing to play multi-
+player games via the Internet. The IADS employs known Internet 
+protocols such as Internet Relay Chat (IRC), HTTP and email 
+protocols, (e.g., X.25) to distribute and initiate computer games such 
+that the application's executable and information concerning virtual 
+locations for application interactions are automatically installed on 
+local computer. Application distribution occurs through the 
+transmission (500) and receipt of an "application object" which 
+contains both the application executable code and the application 
+invoker for invoking the application and linking multiple users in 
+connection with the specific application. The application object 
+includes functionality which allows the user's local computer to 
+automatically set-up a socket connection with a central controller 
+which controls interaction (530) and introduction between and 
+among users. 
+ 
+Figure: 4. 
+  
+Total Pages: - 46. 
+

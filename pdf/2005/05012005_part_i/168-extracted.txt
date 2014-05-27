@@ -1,0 +1,31 @@
+Date of filing of application number => 28/03/2001
+Title => A TUNEABLE LASER AND A METHOD OF TUNING THE 
+SAME 
+ 
+
+International Classification => H01S 5/026 
+Name of inventor => 4. RIGOLE PIERRE JEAN 
+ 
+  
+ 
+ 
+ 
+
+Abstract => A tuneable laser that includes a gain 
+section (11; 34) and a tuneable wavelength-
+selective filter (12; 27). The invention is 
+characterised in that a reflection filter in the form of 
+an external reflector (13) is adapted to give a 
+number of fixed reflection maxima, where each 
+maximum corresponds to a given wavelength. The 
+reflection filter is adapted to coact with the tuneable 
+filter and the laser is adapted to be tuned to lase at 
+any selected one of said wavelengths, by tuning the 
+tuneable filter (12; 27). The invention also relates 
+to a method. 
+ 
+Figure: 3. 
+ 
+  
+Total Pages: - 18. 
+

@@ -1,0 +1,26 @@
+Date of filing of application number => 20/07/2001
+Title => COMPENSATING ELEMENT FOR A SENSOR 
+ 
+
+International Classification => G 01 L 1/22, 
+Abstract => The invention relates to a compensating 
+element (4) for a sensor circuit which is 
+equipped with strain gauges (2) in a bridge 
+circuit (1). Said compensating element (4) 
+consists of a metallic support plate (20) on 
+which a structured resistance foil (24) is 
+bonded in an insulating manner. Both the 
+low-resistance trimming resistors (6, 16) 
+and the high-resistance trimming resistors 
+(13, 18) for compensating the temperature 
+coefficient at zero (TKO) and the 
+temperature coefficient at a characteristic 
+value (TKK) are formed from the 
+resistance foil (23) in a flat or grid form. 
+The compensating element (4) can easily 
+be connected to the sensor through the 
+level support plate (20) with a suitable 
+plastic and with good heat transfer. In the 
+  
+ 
+

@@ -1,0 +1,35 @@
+Date of filing of application number => 16/03/2001
+Title => PROTOCOL FOR REPLICATED SERVICES 
+ 
+
+International Classification => G06F 11/14 
+Name of inventor => PER ANDRES HOLMBERG 
+ 
+  
+ 
+ 
+ 
+
+Abstract => A fault-tolerant client-server system has 
+a primary server, a backup server; and a client. The 
+client sends a request to the primary server, which 
+receives and processes the request, including sending 
+the response to the client, independent of any backup 
+processing. The response includes the primary server 
+state information. The primary server also performs 
+backup processing that includes periodically sending the 
+primary server state information to the backup server. 
+The client receives the response from the primary 
+server, and sends the primary server state information to 
+the backup server. The primary server state information 
+includes all request-reply pairs that the primary server 
+has handled since a most recent transmission of primary 
+server state information from the primary server to the 
+backup server. The primary server's means for 
+performing backup processing may be activated 
+periodically based on a predetermined time interval. 
+Alternatively, it may be activated when the primary 
+server's memory for storing the primary server state 
+information is filled to a predetermined amount. Figure: 2. 
+ 
+

@@ -1,0 +1,100 @@
+Date of filing of application number => 31/07/2001
+Title => METHOD AND APPARATUS FOR SEALING THE BOTTOM OF A FURNACE FOR DRAWING OPTICAL FIBRE FROM A PREFORM 
+ 
+(51) International 
+Classification 
+: C 03 B 37/029 (71) 
+(31) Priority Document No.     : 60/121, 802  
+(32) Priority Date                     
+                           
+: 26/02/1999  
+(33) Name of priority country  : U.S.A.  
+International Application 
+No.  
+: PCT/US00/03379 (86) 
+Filing Date : 10/02/2000 
+ 
+(87) International Publication 
+No.  
+: WO 00/50350  (72) 
+Patent of addition to 
+Application No. 
+: NIL 
+ 
+(61) 
+Filed on  : N.A. 
+ 
+ 
+Divisional to Application 
+No. 
+: NIL (62) 
+Filed on  : N.A. 
+ 
+Name of the Applicant:  
+ 
+CORNING INCORPORATED 
+ 
+Address of the Applicant: 
+ 
+1 RIVERFRONT PLAZA,  
+CORNING, NEW YORK 14831, 
+UNITED STATES OF AMERICA. 
+ 
+Name of the Inventors: 
+ 
+1. STEVEN C. BALL 
+2. JOHN M. BARNARD SR. 
+3. JAMES A. SNIPES  
+ 
+Filed U/S 5(2) before the 
+Patents (Amendment) 
+Ordinance, 2004: NO 
+ 
+ 
+(57) Abstract: 
+An apparatus and method for sealing the bottom of an optical 
+waveguide draw furnace is disclosed. The apparatus includes 
+an assembly (10) constructed and arranged to mate with the 
+bottom (70) of the draw furnace (51) to form a seal, and a 
+leak detection system communicating with the assembly to 
+signal the forming of a proper or an improper seal. The 
+covering plate (12) of the assembly is selectively seated on 
+the sealing plate (72) of the draw furnace (51) to form the 
+seal, and an inert gas is delivered between the covering plate 
+(12) and the bottom (70) of the draw furnace. The flow of the 
+inert gas is detected to determine if the seal has been 
+properly formed. An assembly (10) including a covering 
+plate (12) having at least two radially spaced gaskets (18, 20) 
+circumferentially positioned on the top surface (14) of the 
+covering plate (12) for engagement with the sealing plate 
+(72) at the bottom (70) of the draw furnace 
+Priority Doc No => 60/121, 802  
+Priority date => 26/02/1999
+Name of priority country => U.S.A.  
+International Publication Number => WO 00/50350  (72) 
+Abstract => An apparatus and method for sealing the bottom of an optical 
+waveguide draw furnace is disclosed. The apparatus includes 
+an assembly (10) constructed and arranged to mate with the 
+bottom (70) of the draw furnace (51) to form a seal, and a 
+leak detection system communicating with the assembly to 
+signal the forming of a proper or an improper seal. The 
+covering plate (12) of the assembly is selectively seated on 
+the sealing plate (72) of the draw furnace (51) to form the 
+seal, and an inert gas is delivered between the covering plate 
+(12) and the bottom (70) of the draw furnace. The flow of the 
+inert gas is detected to determine if the seal has been 
+properly formed. An assembly (10) including a covering 
+plate (12) having at least two radially spaced gaskets (18, 20) 
+circumferentially positioned on the top surface (14) of the 
+covering plate (12) for engagement with the sealing plate 
+(72) at the bottom (70) of the draw furnace (51), and a 
+method for sealing the bottom of a draw furnace are also 
+disclosed. Sealing the bottom of sucha draw furnace occurs 
+during preform loading and unloading as well as during idle 
+periods, i.e. those periods when no optical fiber is being 
+drawn from the preform. 
+  
+ 
+(FIG.: 1) 
+Total Pages: 21.
+

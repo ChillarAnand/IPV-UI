@@ -1,0 +1,28 @@
+Date of filing of application number => 28/09/2001
+Title => LARGE EFFECTIVE AREA FIBER HAVING A LOW TOTAL DISPERSION SLOPE 
+ 
+
+Priority Doc No => 60/131,388  
+Priority date => 28/04/1999
+Name of priority country => U.S.A.  
+International Publication Number => WO 00/65387  (72) 
+Abstract => Disclosed is a single mode optical waveguide fiber 
+having a relatively large effective area and good bend 
+resistance. The waveguide fiber is characterized by a 
+segmented core having a central segment (30) and at 
+least one annular segment (32, 34, 36) surrounding the 
+central segment. At least one segment has a negative 
+relative refractive index where the reference refractive 
+index is taken as the index of the cladding. The total 
+dispersion of the fiber is positive for wavelengths above 
+about 1500 nm, dispersion slope is typically less than 
+about 0.08 ps/nm2-km, and induced attenuation under pin 
+array bend testing is typically less than 5 dB/km. 
+ 
+(FIG.: 4) 
+Total Pages: 27. 
+ 
+  
+ 
+ 
+

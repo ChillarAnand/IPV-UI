@@ -1,0 +1,24 @@
+Date of filing of application number => 10/08/2001
+Title => METHOD AND APPARATUS FOR INFORMATION PROCESSING, AND MEDIUM FOR STORING PROGRAM 
+ 
+
+Priority Doc No => 11/358407 
+Priority date => 17/12/1999
+Name of priority country => JAPAN  
+International Publication Number => WO 01/45083 (72) 
+Abstract => An information processing method and an 
+information processor for combining or dividing 
+content such as music data distributed through a 
+predetermined network. The method comprises a 
+first step of determining whether first content 
+has been checked out; a second step of 
+determining whether second content has been 
+checked out; and a step of combining the first 
+content and the second content if neither is 
+checked out. 
+ 
+(FIG.: 4) 
+Total Pages: 175 
+  
+ 
+

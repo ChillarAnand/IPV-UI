@@ -1,0 +1,16 @@
+Date of filing of application number => 27/04/2001
+Title => HOLLOW CATHODE ARRAY FOR PLASMA GENERATION 
+ 
+
+International Classification => H 01 J 37/32 (71) 
+Abstract => This invention relates to a cathode assembly for 
+use in the creation of a discharge plasma. The 
+cathode comprises a plurality of electrically 
+conductive hollow plasma generating cells in an 
+array, the cells being electrically connected to each 
+other. The plasma generated can be used to modify 
+surface properties of substrates, such as films, 
+fibers, particles and other articles. 
+  
+ 
+

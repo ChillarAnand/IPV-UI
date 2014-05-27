@@ -1,0 +1,71 @@
+(21) Application No.5322/DELNP/2011 A 
+
+(43) Publication Date : 31/08/2012 
+
+(12) PATENT APPLICATION PUBLICATION 
+(19) INDIA  
+(22) Date of filing of Application :11/07/2011 
+  
+(54) Title of the invention : FORMATION OF THIN UNIFORM COATINGS ON BLADE EDGES USING ISOSTATIC PRESS 
+ 
+  
+(51) International classification  
+(31) Priority Document No  
+(32) Priority Date  
+(33) Name of priority country  
+(86) International Application No 
+        Filing Date 
+(87) International Publication No  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+(62) Divisional to Application Number 
+        Filing Date 
+ 
+(57) Abstract : 
+The invention discloses isostatic-pressing (IP) applied to polymer (e.g., PTFE) coated razor blade edges to produce thin, dense, and 
+uniform blade edges which in turn exhibit low initial cutting forces correlating with a more comfortable shaves. The isostatic press 
+utilized may be a hot isostatic press (HIP) or cold isostatic press (CIP) or any other isostatic press process. The HIP conditions may 
+include an environment of elevated temperatures and pressures in an inert atmosphere. The HIP conditions may be applied to non-
+sintered coatings or sintered coatings or before or after a Flutec® process is applied to coatings. CIP conditions may include room 
+temperature and elevated pressure. The polymeric material may be a a non-fluofluoropolymer or ropolymer material or any composite 
+thereof. It may be deposited initially by any method, including but not limited to, dipping, spin coating, sputtering, or thermal 
+Chemical Vapor Deposition (CVD). 
+
+  
+(71)Name of Applicant :  
+   1)THE GILLETTE COMPANY 
+      Address of Applicant :WORLD SHAVING 
+HEADQUARTERS, IP/LEGAL PATENT DEPARTMENT - 3E, 
+ONE GILLETTE PARK, BOSTON, MASSACHUSETTS 02127, 
+U.S.A U.S.A. 
+(72)Name of Inventor : 
+   1)WANG, XIANDONG 
+   2)SONNENBERG, NEVILLE 
+ 
+
+:B26B 21/60  
+:12/352,371  
+:12/01/2009 
+:U.S.A. 
+:PCT/US2010/020686
+:12/01/2010 
+:WO 2010/081118  
+:NA 
+:NA 
+:NA 
+:NA 
+
+  
+
+No. of Pages : 28 No. of Claims : 15 
+
+ 
+
+The Patent Office Journal 31/08/2012 
+
+13423
+
+ 
+
+

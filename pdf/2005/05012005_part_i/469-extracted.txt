@@ -1,0 +1,34 @@
+Date of filing of application number => 31/12/2001
+Title => RESONANT SWITCHING POWER SUPPLY CIRCUIT WITH 
+VOLTAGE DOUBLER OUTPUT 
+ 
+
+International Classification => H02M 3/338 
+Name of inventor => 1. YASUMURA MASAYUKI 
+ 
+
+Abstract => A switching power supply circuit 
+includes an insulating converter transformer where the 
+insulating converter transformer has a gap formed 
+therein so that a coupling which is efficient for a loose 
+coupling is obtained; switching circuit, a primary side 
+parallel resonance circuit formed from a leakage 
+inductance component from the primary winding of the 
+insulating converter transformer and a capacitance of a 
+parallel resonance capacitor and a secondary side 
+series resonance circuit including a secondary side 
+series resonance capacitor and a secondary winding of 
+the insulating converter transformer; a dc output voltage 
+production means for performing a voltage multiplying 
+full-wave rectification operation to produce a secondary 
+side dc output voltage substantially equal to twice the 
+input voltage level; and a constant voltage control 
+means for varying a switching frequency of the 
+switching element in order to perform constant voltage 
+control of the secondary side output voltage. 
+ 
+  
+Figure: 1. 
+Total Pages: - 58 
+ 
+

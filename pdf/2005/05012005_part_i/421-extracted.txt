@@ -1,0 +1,40 @@
+Abstract => A block key for ciphering block data by using 
+ATS added depending on the arrival time of a transport packet 
+constituting a transport stream is created. Since the ATS is 
+random data depending on the time, a unique key different with 
+block can be created, thereby enhancing the strength against 
+cipher analysis. The block key is created by combining the ATS 
+and keys unique to the device and the recording medium such 
+as the master key, disk unique key, and title unique key. Since 
+the block key is created using the ATS, no areas on the 
+recording medium for storage of a ciphering key for each block 
+is required. 
+ 
+ 
+ 
+ 
+Total Pages: 135. 
+ 
+ 
+ (FIG.- 11.) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+

@@ -1,0 +1,19 @@
+Date of filing of application number => 19/04/2001
+Title => SLURRIES OF ABRASIVE INORGANIC OXIDE PARTICLES AND  
+                                      METHOD FOR ADJUSTING THE ABRASIVENESS OF THE PARTICLES 
+ 
+
+International Classification => C 09 G 1/02, 
+Abstract => Autoclaving slurries of porous, inorganic oxide particles results in an increased abrasiveness of the 
+particles as reflected in increased removal rates of a polished substrate at standard polishing 
+conditions in chemical mechanical polishing operations. Slurries having novel abrasion properties, 
+especially for silica-based slurries, are created. The increase in particle abrasivity strongly correlates 
+with a decrease in particle surface area as determined by N2 adsorption (BET method). As a result, 
+methods for obtaining a desired abrasivity for a slurry can be practiced by heating a slurry of 
+inorganic oxide particles to a BET surface area previously identified as associated with the abrasivity 
+desired.  The resulting slurries can be used in conventional polishing machinery.  The method is 
+particularly suitable for preparing silica-based abrasive slurries. 
+ 
+  
+Figure: NIL.
+

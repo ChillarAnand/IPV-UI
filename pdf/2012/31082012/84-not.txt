@@ -1,0 +1,70 @@
+(21) Application No.5362/DELNP/2011 A 
+
+(43) Publication Date : 31/08/2012 
+
+(12) PATENT APPLICATION PUBLICATION 
+(19) INDIA  
+(22) Date of filing of Application :12/07/2011 
+  
+(54) Title of the invention : DIGITAL STEREO IMAGING PHOTOSENSITIVE DEVICE FOR A GRATING AND A 
+PHOTOSENSITIVE MATERIAL AND ITS METHOD 
+ 
+  
+(51) International classification  
+(31) Priority Document No  
+(32) Priority Date  
+(33) Name of priority country  
+(86) International Application No 
+        Filing Date 
+(87) International Publication No  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+(62) Divisional to Application Number 
+        Filing Date 
+ 
+(57) Abstract : 
+A digital stereo imaging photosensitive device for a grating and a photosensitive material, includes: a photosensitive platform (8), 
+connected with a base via a platform moving mechanism; a compressing mechanism (7) mounted on the photosensitive platform, 
+wherein -a grating (5) is positioned on the compressing mechanism; a LCD displayer (2) suspending above the photosensitive 
+platform; and a lens suspending above the photosensitive platform via a lens moving mechanism, wherein the lens is under the LCD 
+displayer. And a method for digital stereo projection. The present invention does not need photosensitive paper after combining the 
+grating and the photosensitive material, is capable of separating the photosensitive material and the grating after projection and 
+sensitization, so that an ordinarily developing device can be used to develop. Furthermore, a double-faced film layer in the 
+photosensitive material and the grating during projection and sensitization is not needed, and the color contract of the stereopictures is 
+better than that of the prior art combining the grating with the photosensitive material before projection. 
+
+  
+(71)Name of Applicant :  
+   1)SHANGHAI YIYING DIGITAL TECHNOLOGY CO., 
+LTD. 
+      Address of Applicant :NO. 167, LANE 1776, SOUTH 
+HONGMEI ROAD, MINHANG DISTRICT, SHANGHAI, 
+200237 (CN) China 
+(72)Name of Inventor : 
+   1)GU, JINCHANG 
+ 
+
+:G03B 27/52  
+:200810204798.6  
+:17/12/2008 
+:China 
+:PCT/CN2009/075656
+:16/12/2009 
+:WO 2010/069256  
+:NA 
+:NA 
+:NA 
+:NA 
+
+  
+  
+No. of Pages : 13 No. of Claims : 2 
+
+The Patent Office Journal 31/08/2012 
+
+13452
+
+ 
+
+

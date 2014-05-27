@@ -1,0 +1,36 @@
+Date of filing of application number => 21/12/2001
+Title => METHODS FOR THE SEPARATION OF COMPOUNDS FROM 
+ACIDIC AQUEOUS SOLUTIONS  
+ 
+
+International Classification => C03B 37/014 
+Name of inventor => 1. DUNWOODY  STEVEN A.  
+2. JIANG  LEI 
+3. POWERS  DALE  R.  
+4.
+ 
+PRINCE  FREDDIE.  
+ 
+  
+ 
+ 
+ 
+
+Abstract => A method is disclosed for recovering germanium from a gaseous mixture which includes a 
+germanium-containing compound in vapor or particulate form, acid in vapor form, and water vapor. The gaseous 
+mixture is contacted with a liquid containing water under conditions effective to dissolve the germanium-containing 
+compound in the liquid. The acidity of the resulting liquid mixture is increased under conditions effective to vaporize 
+the germanium-containing compound. The vaporized germanium-containing compound is contacted with one or 
+more aqueous solutions under conditions effective to dissolve and precipitate the germanium-containing compound 
+in at least one of the one or more aqueous solutions, and the resulting precipitate is separated from the at least one 
+of the one or more aqueous solutions. The methods described herein are particularly well suited for recovering 
+germanium from the waste gases produced during optical waveguide manufacturing processes. Germanium 
+recovered by this method can thereafter be used in the production of semiconductors, optical waveguide fibers and 
+optical components. 
+  
+Figure: NIL. 
+Total Pages: - 33 
+ 
+ 
+ 
+

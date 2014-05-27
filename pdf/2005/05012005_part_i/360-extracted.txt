@@ -1,0 +1,21 @@
+Date of filing of application number => 04/10/2001
+Title => STEREOSPECIFIC METHOD FOR PREPARING 4-HYDROXYALC-1-ENE COMPOUNDS 
+ 
+
+Priority Doc No => 99/05469   
+Priority date => 29/04/1999
+Name of priority country => FRANCE  
+International Publication Number => WO 00/66519   
+Abstract => The invention concerns a method for stereospecific preparation of 4-hydroxyalk-1-ene compounds of 
+configuration (R) or (S) of general formula (I) wherein: X represents an oxygen atom, and in such case R 
+is selected among an alkyl, aryl, trityl, SiR, [Si(Alkyl)3; Si(Alkyl)2Ph], cyclic ether, tetrahydrofuryl 
+group, or a group of formula -CO-R'', wherein R'' represents an alkyl group or an aryl group; R' 
+represents the lone pair of oxygen; and n is a whole number not less than 1; or X represents a nitrogen 
+atom, and in such case, R is selected among a hydrogen atom, an alkyl, aryl group; R' is selected among 
+the groups of formulae -CO2R'', -SO2R'', -COR'', wherein R'' represents a alkyl group, an aryl group, or a 
+-CF2 group, and n is a whole number not less than 1; by enantioselective allylic rearrangement reaction of 
+aldehydes of formula (II) wherein X, R, R' and n are as defined in formula (I). 
+ 
+(FIG.: NIL) 
+Total Pages: 14.
+

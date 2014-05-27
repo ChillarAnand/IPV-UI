@@ -1,0 +1,31 @@
+Date of filing of application number => 14/06/2001
+Title => DIACYLGLYCEROL ACYLTRANSFERASE GENE FROM PLANTS. 
+ 
+
+International Classification => C 12 N 15/54 (71) 
+Abstract => The present invention relates to the isolation, purification, 
+characterization and use of the plant diacylglycerol 
+acyltransferase (DGAT) gene and genetic products. For 
+example, the invention provides DGAT cDNA [SEQ ID NO:1] 
+(pDGATcDNA; ATCC No PTA-989) and a plant diacylglycerol 
+acyltransferase gene [SEQ ID NO:3] (pDGATgene; ATCC No 
+PTA-988) from the Brassicaceae (specifically Arabidopsis 
+thaliana). The invention includes isolated and purified DGAT 
+DNA, preferably of the stated sequences and homologues, and 
+relates to methods of regulating seed oil content, the ratio of 
+diacylglycerol/triacylglycerol proportions in the seed oil, fatty 
+acid synthesis, seed oil acyl composition, seed size/weight and 
+carbon flux into other seed components, using the gene, and to 
+tissues and plants transformed with the gene. The invention also 
+relates to transgenic plants, plant tissues and plant seeds having 
+a genome containing an introduced DNA sequence of the 
+invention, and a method of producing such plants and plant 
+seeds. The invention also relates to [SEQ ID NO:1] containing 
+an 81 bp insertion [SEQ ID NO:23], and uses thereof to modify 
+oil content, acyl composition of triacylglycerols, seed size or 
+carbon flux into other seed components. 
+  
+ 
+ 
+Figure : 01.        TOTAL PAGES : 81. 
+

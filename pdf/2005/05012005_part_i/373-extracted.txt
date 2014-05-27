@@ -1,0 +1,28 @@
+Date of filing of application number => 12/10/2001
+Title => CHALCOGENIDE DOPING OF OXIDE GLASSES 
+ 
+
+Priority Doc No => 99109637  
+Priority date => 07/05/1999
+Name of priority country => RUSSIA  
+International Publication Number => WO 00/68718   
+Abstract => The present invention relates to a glass article for use 
+as an optical waveguide fiber (1), the core (4) of 
+which is doped with a chalcogenide element to 
+significantly increase the refractive index of the core 
+(4). The subject of this invention is novel doped silica 
+core composition wherein a portion of the oxygen in 
+the silica is replaced with either sulfur, selenium or 
+tellurium using plasma enhanced chemical vapor 
+deposition (PECVD). These compositions are 
+designed to have higher refractive indices than silica, 
+low coefficient of expansion, high optical 
+transparency and appropriate viscosity and softening 
+points to make them ideal candidates for use as optical 
+waveguide fibers. 
+  
+ 
+ 
+(FIG.: 1) 
+Total Pages: 25.
+

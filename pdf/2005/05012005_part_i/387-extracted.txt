@@ -1,0 +1,9 @@
+Abstract => A method for controlling corrosion of metals, such as stainless steel, in contact with an aqueous system 
+which comprises introducing into said system at least one tetrazolium compound of formula (I) wherein R1, R2 and R3 
+are selected from the group consisting of lower alkyl, branched lower alkyl, aryl, substituted aryl, alkylaryl, substituted 
+alkylaryl and heterocyclic substituted aryl, with the proviso that neither R1, R2, or R3 contain more than 14 carbon atoms; 
+and n is 1 or 2, such tetrazolium compound optionally having associated water soluble ionic species if needed to obtain a 
+neutral charge. 
+ (FIG.- 1.) 
+Total Pages: 97. 
+

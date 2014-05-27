@@ -1,0 +1,36 @@
+Date of filing of application number => 20/03/2001
+Title => TESTING DEVICE FOR DETECTING AND DETERMINING 
+MATERIAL INHOMOGENEITIES 
+ 
+
+International Classification => G01N 27/72 
+Name of inventor => 1. JOHANN H. HINKEN 
+2.
+ 
+YURY TAVRIN 
+ 
+ 
+  
+ 
+ 
+ 
+
+Abstract => The present invention relates to a testing 
+device for detecting and determining material 
+inhomogeneities in electrically conductive samples (10), 
+comprising a support (30) for the samples(10) to be 
+tested, a temperature regulating device (30, 50, 60) for 
+configuring a temperature profile in the sample (10), a 
+drive connected to the support (30) for changing the 
+position of the sample (10) and at least one measuring 
+sensor (20) for contactless measurement of the magnetic 
+field outside the sample (10). 
+ 
+ 
+Total Pages: - 13. 
+ 
+ 
+Figure: 1. 
+ 
+  
+

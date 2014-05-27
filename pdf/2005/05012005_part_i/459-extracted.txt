@@ -1,0 +1,26 @@
+Date of filing of application number => 26/12/2001
+Title => SYSTEMS AND METHODS FOR COMMUNICATING ACROSS 
+VARIOUS COMMUNICATION APPLICATIONS USING 
+SINGLE ADDRESS STRINGS.  
+ 
+
+International Classification => H04L 29/00 
+Name of inventor => 1. BAGLEY DAVID TODD (US); 
+2. FEARING ROGER N (US) 
+ 
+  
+ 
+ 
+ 
+
+Abstract => Systems and methods are disclosed for providing addressing strings formats and associated 
+system implementations to minimize the number of different addressing strings used for communicating across 
+different communication applications. The systems and methods receive a valid address string that can be inputted 
+into a communication applications selected from a collection of communication applications wherein the same 
+address string can be inputted for any selected communication application from that collection. 
+  
+Figure: NIL. 
+Total Pages: - 34 
+ 
+ 
+

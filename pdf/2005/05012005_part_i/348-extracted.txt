@@ -1,0 +1,22 @@
+Date of filing of application number => 26/09/2001
+Title => METHOD FOR DOWN-REGULATING 1L5 ACTIVITY 
+ 
+
+Priority Doc No => 1) PA 1999 00552 
+Name of priority country => 1) DENMARK 
+International Publication Number => WO 00/65058  
+Abstract => The present invention relates to improvements in therapy and prevention of conditions characterized by an elevated 
+level of eosinophil leukocytes, i.e. conditions such as asthma and other chronic allergic diseases. A method is provided 
+for down-regulating interleukin 5 (IL5) by enabling the production of antibodies against IL5 thereby reducing the 
+level of activity of eosinophils. The invention also provides for methods of producing modified IL5 useful in this 
+method as well as for the modified IL5 as such. Also encompassed by the present invention are nucleic acid fragments 
+encoding modified IL5 as well as vectors incorporating these nucleic acid fragments and host cells and cell lines 
+transformed therewith. The invention also provides for a method for the identification of IL5 analogues which are 
+useful in the method of the invention as well as for compositions comprising modified IL5 or comprising nucleic acids 
+encoding the IL5 analogues. The preferred embodiment of the present invention entails the use of variants of IL5, 
+where foreign T helper epitopes are introduced so as to induce production of cross-reactive antibodies capable of 
+binding to autologous IL5. 
+(FIG.: 4) 
+Total Pages: 115. 
+ 
+

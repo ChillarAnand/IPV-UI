@@ -1,0 +1,44 @@
+Date of filing of application number => 09/10/2001
+Title => METHOD AND DEVICE FOR UTILIZATION OF MOBILE RADIO TELEPHONES FOR SURVEILLANCE AND/OR CONTROL PURPOSES 
+ 
+
+Priority Doc No => 9901299-9  
+Priority date => 12/04/1999
+Name of priority country => SE  
+International Publication Number => WO 00/62521   
+Abstract => A method and a device for utilization of mobile radio 
+telephones for surveillance and/or control purposes in 
+which a radio unit (3) for reception of signals from mobile 
+radio telephones is arranged to be activated in a first step 
+by an incoming signal from a mobile radio telephone, as a 
+second step analysing the first part of received signal with 
+regard to the PIN/SIM number (or corresponding) and/or 
+inputted call number during the handshaking procedure 
+between the mobile radio telephone and an associated base 
+station for comparison with preprogrammed corresponding 
+information, and as a third step, when correspondence has 
+been established, initiate preprogrammed procedures 
+and/or actions, and if non-correspondence is established 
+return to "resting" and non-activated condition pending a 
+signal inputted from a mobile radio telephone. The 
+receiving radio unit (3) is preferably performing a scanner 
+function in "resting" condition with regard to within the 
+geographical area utilized frequencies for mobile 
+telephones, and performs a locking operation to the 
+frequency for an incoming signal, maintaining this locking 
+when approval for the third step is established, and 
+returning  
+(FIG.: 2)  
+Total Pages: 25. 
+  
+ 
+thereafter, as well as when non-acceptance is established 
+during the second or third step, to "resting" function with 
+scanning of the frequencies. The reception range for used 
+radio unit (3) is preferably maintained restricted during 
+the first and second step, and extended during the third 
+step, whereby reception of called subscriber can be 
+accomplished from the base station communicating with 
+the mobile radio telephone. 
+ 
+

@@ -1,0 +1,12 @@
+body {
+	width:400px;
+	margin:auto;
+    margin-top: 60px;
+    border: 1px;	
+    text-align: center;
+}
+
+div#year {
+    margin-left: 145px;
+}
+

@@ -1,0 +1,24 @@
+Date of filing of application number => 03/04/2001
+Title => LIQUID CRYSTAL COMPOUND 
+ 
+
+International Classification => C 09 K 19/34 (71) 
+Abstract => A compound of formula (I), in which R1 represents a chiral or non-chiral, branched or straight chain 
+C1-20 alkyl or C1-20 alkenyl, which may be optionally substituted by one or more halogen atoms and 
+in which one or more non-adjacent –CH2- groups may be optionally replaced by –CH=CH-, -O-, -
+CO-, -COO-, -OOC-, -O-OC-O- or –S-; R2 represents a chiral or non-chiral, branched or straight 
+chain C1-20 alkoxy, C1-20 alkenyloxy, C1-20 alkylcarbonyloxy (alkyl-COO-) or C1-20 alkenyl 
+carbonyloxy (alkenyl-COO-) which may be optionally substituted by one or more halogen atoms and 
+in which one or more non-adjacent –CH2- groups may be optionally replaced by –CH=CH-, -O-, -
+CO-, -COO-, -OOC-, -O-OC-O- or –S-;MG1 represents a groups of formula (Ia):-(A-Z2)n-(B-Z3)m, in 
+which A and  B are each independently a 1,4-phenylene or 1,4-cyclohexylene group, which may 
+each be optionally substituted by halogen, cyano or nitro or a group of formula R1 and in which one 
+or two non-adjacent –CH- or –CH2- groups may be optionally replaced by nitrogen or oxygen 
+respectively; Z1, Z2, Z3 independently represent a single bond, -COO- or –OOC-, -CH2CH2-, -
+CH=CH-, -C=C-, -OCH2- or –CH2O-;m and n are each independently  0 or 1; and MG2 represents a 
+1,4 phenylene group which may be optionally substituted by halogen, cyano or nitro or a group of 
+formula R1 and in which one or two non-adjacent –CH- groups is replaced by nitrogen is provided. 
+The compound is useful in the preparation of ferroelectric liquid crystal devices. 
+ 
+Figure: NIL.
+

@@ -1,0 +1,28 @@
+Date of filing of application number => 15/01/2001
+Title => COMPOSITIONS AND METHODS FOR THERAPY AND 
+DIAGNOSIS OF PROSTATE CANCER 
+ 
+
+International Classification => C12N 15/12 
+Name of inventor => 1. DAVIN CLIFFORD DILLON 
+2. SUSAN LOUISE HARLOCKER 
+3. JIANG YUQUIU 
+4. JIANGCHUN XU 
+5. JENNIFER LYNN MITCHAM 
+ 
+  
+ 
+ 
+ 
+
+Abstract => Compositions and methods for the therapy and diagnosis of cancer, such as prostate 
+cancer, are disclosed.  Compositions may comprise one or more prostate tumor proteins, immunogenic 
+portions thereof, or polynucleotides that encode such portions.  Alternatively, a therapeutic composition 
+may comprise an antigen presenting cell that expresses a prostate tumor protein, or a T cell that is specific 
+for cells expressing such a protein.  Such compositions may be used, for example, for the prevention and 
+treatment of diseases such as prostate cancer.  Diagnostic methods based on detecting a prostate tumor 
+protein, or mRNA encoding such a protein, in a sample are also provided. 
+  
+Figure: NIL. 
+ 
+

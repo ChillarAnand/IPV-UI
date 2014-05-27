@@ -1,0 +1,18 @@
+Date of filing of application number => 04/07/2001
+Title => MAMMALIAN SERINE RACEMASE. 
+ 
+
+International Classification => C 12 N 15/61 (71) 
+Abstract => High levels of D-serine occur in mammalian brain, where it appears to be an endogenous 
+ligand of the “glycine site” of NMDA receptors.  We have purified from rat brain a soluble enzyme that 
+catalyzes the direct recemization of L-serine to D-serine.  Purified serine racemase has a molecular weight 
+of 37 kDa and requires pyridoxal 5’-phosphate for its activity.  The enzyme is highly selective toward L-
+serine, falling to racemize any other amino acid tested.  We have also identified polynucleotide sequences 
+which encode mammalian, including human, serine racemase.  Compounds which modulate the activity of 
+mammalian serine racemase are useful for treating conditions and diseases which involve overstimulation 
+of NMDA receptors, such as stroke and various neurodegenerative diseases. 
+ 
+Figure : NIL 
+ 
+TOTAL PAGES : 42. 
+

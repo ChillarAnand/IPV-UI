@@ -1,0 +1,19 @@
+Date of filing of application number => 21/06/2001
+Title => IMPROVED IN VIVO PRODUCTION OF CEPHALOSPORINS. 
+ 
+
+International Classification => C 12 P 35/00 (71) 
+Abstract => The present invention discloses a process for the production of 7-ACA or a derivative 
+thereof comprising the steps of fermenting a P. chrysogenum strain being transformed with an expression 
+construct comprising a nucleotide sequence encoding expandase, hydroxylase and acetyltransferase activity 
+in the presence of a suitable acyl side chain precursor, or a salt or ester thereof, such that an N-acylated 7-
+ACA compound is produced.  N-deacylating the thus produced N-acylated 7-ACA compound and, 
+optionally, acylating the free amino group and/or substituting the 3’ acetate group with a side chain suitable 
+to form a cephalosporin antibiotic, characterised in that the nucleotide sequence encoding the 
+acetyltransferase is derived from Acremonium chrysogenum and starts at the second ATG of the open 
+reading frame as present in said nucleotide sequence. 
+ 
+Figure : NIL 
+ 
+TOTAL PAGES : 15. 
+

@@ -1,0 +1,35 @@
+Date of filing of application number => 08/11/2001
+Title => PRESSURE CONTROL SYSTEM IN A WATER ELECTROLYTIC 
+CELL 
+ 
+
+Priority Doc No => 2,271,517 
+Priority date => 12/05/1999
+International Classification => C25B 15/02 
+Name of priority country => CANADA 
+International Application Number => PCT/CA00/0048
+International Publication Number => WO 00/70126 
+Name of inventor => 1. MATTHEW J. FAIRLIE 
+2. WILLIAM J. STEWART  
+3. CHARLIE DONG 
+ 
+Filed U/S 5(2) before The  
+Patents (Amendment)  
+Ordinance, 2004: NO 
+ 
+ 
+
+Abstract => Apparatus and a process for providing oxygen and hydrogen at a desired minimum pressure from an 
+electrolyser comprising an anolyte solution having an anolyte liquid level; a catholyte solution having a catholyte liquid 
+level; oxygen generated at an oxygen pressure above said anolyte; hydrogen generated at a hydrogen pressure above said 
+catholyte for passage through hydrogen outlet means; the method comprising raising the oxygen pressure above the 
+anolyte to effect a positive liquid level pressure differential between said catholyte level and said anolyte level to a pre-
+selected value to effect closure of said hydrogen outlet means and an increase in the hydrogen pressure to a value to effect 
+opening of said hydrogen outlet means to provide hydrogen at said desired minimum pressure.  The hydrogen is provided 
+on demand at a readily available pressure suitable for use, such as in the case of hydrogen in metal hydride production or 
+supply to a compressor for subsequent higher pressure utility; and oxygen for breathing assistance and sanitization 
+purposes.  The pressure differential across the cell membrane is low or negligible, notwithstanding the hydrogen and 
+oxygen product pressure. 
+(FIG.) 
+Total Pages: 15. 
+

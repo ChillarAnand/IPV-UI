@@ -1,0 +1,33 @@
+Abstract => Audit data collected at a retail establishment 
+pertains to a plurality of purchases. For each purchase, an 
+associated purchase date and an associated number of 
+purchased units is determined. For each purchase date, a 
+depletion rate is determined that will cause the number of 
+purchased units to be depleted upon the occurrence of the 
+next successive purchase date. The depletion rate is an 
+estimation of daily sales occurring between successive 
+purchase dates. Causal data may also be collected at the 
+retail establishment, which is considered to be valid during 
+a causal audit period. Total estimated sales occurring 
+during the causal audit period are determined by summing 
+the estimated daily sales for each purchase date within the 
+causal audit period. Relationships may be identified 
+between the causal data and the total estimated sales during 
+the causal audit period. If a relationship between the causal 
+data and the total estimated sales is identified, one or more 
+marketing strategies may be developed for taking 
+advantage of the identified relationship. Marketing 
+strategies may be analyzed using one or more analytical 
+marketing models to determine whether any of the 
+marketing strategies are viable. Any marketing strategies 
+that are determined to be viable may be implemented in the 
+retail environment. At a later time, updated audit data and 
+causal data may be collected and analyzed in the above-
+described manner for the purpose of monitoring the 
+performance of the one or more implemented marketing 
+strategies. 
+ 
+ 
+(FIG.) 
+Total Pages: 22 
+

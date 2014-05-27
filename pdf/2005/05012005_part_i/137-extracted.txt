@@ -1,0 +1,20 @@
+Date of filing of application number => 22/02/2001
+Title => BLOCKNESS FIBER OPTIC ATTENUATORS AND ATTENUATION  
+                                       SYSTEMS EMPLOYING DISPERSION TAILORED POLYMERS 
+ 
+
+International Classification => G 02 B 6/00 (71) 
+Abstract => Controllable fiber optic attenuators and attenuation systems are disclosed for controllably extracting optical energy from a 
+fiber optic, and therefore attenuating the optical signal being transmitted through the fiber optic. In one aspect, material is 
+removed from a portion of the fiber optic, thereby exposing a surface through which optical energy can be extracted. The 
+portion of the fiber is suspended between two support points, and a controllable material is formed over the surface for 
+controllably extracting optical energy according to a changeable stimulus applied thereto, which affects the refractive index 
+thereof. In one embodiment, the changeable stimulus is temperature, and a controllable heating/cooling source can be 
+provided in the attenuator for control of the attenuation. The limited amount of thermal contact between the suspended, side-
+polished portion of the fiber optic and the controllable material to surrounding structures offers a more predictable response, 
+and improved response time. The controllable material, in one embodiment, may be a dispersion controlled (e.g., matched) 
+polymer, offering uniform spectral characteristics of attenuation across a wavelength band of interest. 
+ 
+Figure: 2. 
+ 
+

@@ -1,0 +1,18 @@
+Date of filing of application number => 09/08/2001
+Title => FUCOSYL TRANSFERASE GENE 
+ 
+
+Priority Doc No => A 270/99  
+Priority date => 18/02/1999
+Name of priority country => AUSTRIA  
+International Publication Number => WO 00/49153  
+Abstract => The invention relates to a DNA molecule which comprises a sequence according to SEQ ID No: 1 with 
+an open reading frame of base pair 211 to base pair 1740 or which exhibits at least 50% homology to the 
+above-mentioned sequence, or which is hybridized with the above-mentioned sequence under stringent 
+conditions, or which comprises a sequence that is degenerated to the above-mentioned DNA sequence 
+due to the genetic code. The sequence codes for a vegetable protein comprising a fucosyl transferase 
+activity or is complementary thereto.   
+ 
+(FIG.: NIL) 
+Total Pages:43 
+

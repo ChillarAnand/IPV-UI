@@ -1,0 +1,21 @@
+Date of filing of application number => 26/02/2001
+Title => ELECTROCHROMIC DEVICE WITH A YELLOW FILTER 
+ 
+
+International Classification => C 09 K 9/02  
+Abstract => The invention relates to a light-protected electrochromic device containing a pair of glass or plastic 
+sheets or plastic films.  One side of at least one of said sheets or films, preferably both sheets or 
+films, is provided with an electroconductive coating. At least one of said sheets or films and its 
+electroconductive coating are transparent and the other can be metallised.  The electroconductive 
+coating of at least one of the two sheets or films can be divided up into separate, individually 
+contacted surface segments. The sheets or films are joined by a sealing ring on the sides of their 
+electroconductive coatings and the volume created by the sheets or films and the sealing ring is filled 
+with an electrochromic medium.  The invention is characterized in that the electrochromic device 
+contains a yellow filter for which the wavelength at which absorbance in the long-wave flank reaches 
+half of the very long-wave maximum absorbance value is between 370 and 500nm, preferably 
+between 380 and 470 nm.  The invention is characterized by a considerably improved resistance to 
+light in its activated state. 
+ 
+Figure: NIL. 
+ 
+

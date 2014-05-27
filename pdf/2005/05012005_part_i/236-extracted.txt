@@ -1,0 +1,33 @@
+Date of filing of application number => 06/06/2001
+Title => IMPROVED METHODS FOR WIRE-SCRIBING FILAMENT 
+CIRCUIT PATTERNS WITH PLANAR AND NON-PLANAR 
+PORTIONS, IMPROVED WIRE-SCRIBED BOARDS, 
+INTERCONNECTION CARDS, AND SMART CARDS MADE 
+BY THESE METHODS. 
+ 
+
+International Classification => H 05 K 7/06 (71) 
+Abstract => An apparatus and method of forming filament circuit 
+patterns with planar and non-planar portions and interconnection cards, 
+smart cards or optical fiber circuit cards formed therefrom are provided. A 
+filament circuit path is scribed by moving a filament guide and a substrate 
+relative to one another, and dispensing a filament on, or in the vicinity of, a 
+surface of the substrate. The filament or the substrate or both have adhesive 
+surface(s). The adhesive surface is capable of being adhesively actuated by 
+application of energy. Energy is applied simultaneous with, or subsequent 
+to, scribing. A portion of the filament circuit pattern is planar and another 
+portion is non-planar. The non-planar portion traverses but does not contact 
+or adhere to a pre-selected area of the substrate. The pre-selected area 
+corresponds with a pad, a contact pattern, a hole, a slot, a raised feature, a 
+part of the previously scribed planar portion of the pattern, and a filament 
+termination point. Alternately, the non-planar portion may be embedded 
+below the surface of the substrate. Another planar portion of the filament 
+circuit traverses the non-planar portion but does not contact or adhere to a 
+pre-selected part of the previously scribed non-planar portion. According to 
+the above method wire-scribed circuit boards are formed including 
+interconnection cards, smart cards or optical fiber circuit cards. 
+  
+ 
+ 
+Figure : 2a.      TOTAL PAGES : 40. 
+

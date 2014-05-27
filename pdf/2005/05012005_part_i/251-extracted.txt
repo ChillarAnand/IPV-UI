@@ -1,0 +1,17 @@
+Date of filing of application number => 18/06/2001
+Title => DETERGENT COMPOSITIONS COMPRISING PHENOL OXIDIZING ENZYMES. 
+ 
+
+International Classification => C 12 N 15/53 (71) 
+Abstract => Disclosed herein are detergent compositions comprising novel phenol oxidizing enzymes 
+encoded by nucleic acid capable of hybridizing to the nucleic acid having the sequence as shown in SEQ 
+ID NO: 1 and in particular those obtainable from fungus, in particular from Bipolaris spicifera, Curvularia 
+pallescens and Amerosporium atrum.  The present invention provides expression vectors and host cells 
+comprising nucleic acid encoding phenol oxidizing enzymes, methods for producing the phenol oxidizing 
+enzyme as well as methods for constructing expression osts. 
+ 
+ 
+Figure : NIL 
+ 
+TOTAL PAGES : 43. 
+

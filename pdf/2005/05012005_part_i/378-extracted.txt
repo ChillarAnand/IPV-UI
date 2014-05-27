@@ -1,0 +1,35 @@
+Date of filing of application number => 17/10/2001
+Title => METHOD FOR SIMULATING A CHARACTERISTIC OF A PHYSICAL SYSTEM  
+ 
+
+Priority Doc No => 60/127, 202  
+Priority date => 31/03/1999
+Name of priority country => U.S.A.  
+International Publication Number => WO 00/58910   
+Abstract => A method is provided for simulating at least one 
+characteristic of a physical system. The physical 
+sytem is discretized into a plurality of 
+volumetric cells (201-215) having boundaries 
+therebetween. An initial estimate of state 
+variables is assigned for each cell. For each cell, 
+linear equations are constructed relating its state 
+variables to the state variables of cells adjacent 
+to it. A transportability value is associated with 
+each boundary and the boundaries are ranked 
+corresponding to descending transportability 
+values. The boundary rankings are used to 
+construct topologically one-dimensional strings 
+of cells (50, 51). A matrix equation for each 
+string is constructed by assembling the linear 
+equations associated with the cells for each 
+string. Improved estimates of the state variables 
+of the cells are determined by solving the matrix 
+equations. These state variables are then used to 
+simulate at least one characteristic of the 
+physical system. 
+  
+ 
+ 
+(FIG.: 6) 
+Total Pages: 35. 
+

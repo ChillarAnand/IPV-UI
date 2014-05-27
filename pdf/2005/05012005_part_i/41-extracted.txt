@@ -1,0 +1,34 @@
+Application number => 776/MUM/2003
+Date of filing of application number => 07/08/2003
+Title => POWER SUPPLY APPARATUS FOR ELECTRIC VEHICLE 
+ 
+
+International Classification => (71) 
+Abstract => To provide a power supply apparatus 
+for an electric vehicle wherein the insulation of a poer 
+supply line for supplying a drive voltage to an electric 
+motor can be simplified and the cost for the  insulation 
+can be reduced. [solving means] A power supply 
+apparatus for an electric vehicle includes batteries 1-1 
+and 1-2 for driving a  motor 2 and general electric 
+parts3. A node A of an intermediate voltage of 24 V 
+between a drive voltage of 48 V of the batteries 1-1 and 
+1-2 and the ground voltage is connected to a ground line 
+for the general electric pats 3. an inverter 16 produces a 
+voltage to be applied to the general electric parts 3 
+absed on the drive voltage of 48 V of the batteries 1-1 
+and 1-2 and the intermediates voltage of 24 v. by 
+adjusting the duty ration of the inverter 16, a voltage of 
+AC 24 V or, 12 V can be applied to the  general electric 
+parts 3. 
+ 
+Figure :  1. 
+ 
+ 
+ 
+ 
+ 
+ 
+Publication After 18 months 
+ 
+

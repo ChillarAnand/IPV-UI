@@ -1,0 +1,31 @@
+Date of filing of application number => 06/06/2001
+Title => CONTROL OF DATA FLOW TO A MOBILE STATION. 
+ 
+
+International Classification => H 04 Q 7/22 (71) 
+Abstract => The present invention relates to a mobile station (MS), a 
+method and a node (MS, HLR, MSC, VLR) in a mobile 
+communications system (PLMN). The invention 
+addresses the problem of the interference caused to a 
+circuit-switched transaction by a non-circuit-switched 
+transaction that is ongoing in parallel with the same 
+mobile station (MS). It is normally a USSD transaction 
+(USSD) that impairs the quality of a speech connection 
+(TCH). The present invention provides a method which 
+enables a user (A) of the mobile station to give in 
+advance an upper data flow limit in the non-circuit-
+switched transaction. Control mechanisms in the mobile 
+communications system then limit the data flow in 
+accordance with said upper limit. The control is 
+managed by an inventive mobile station or by the mobile 
+switching centre (MSC). The advantage gained is that a 
+smaller data flow results in less interference on the 
+speech connection. Impairment of the speech connection 
+can be rectified to a limited extend with the aid of 
+coding. 
+  
+ 
+Figure : 1. 
+ 
+TOTAL PAGES : 25. 
+

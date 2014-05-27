@@ -1,0 +1,31 @@
+Date of filing of application number => 19/10/2001
+Title => OPTIMUM TURBO DECODING ARCHITECTURE AND METHOD 
+USING A CONSTANT OR QUASI-CONSTANT SIGNAL-TO-NOISE 
+RATIO 
+ 
+
+Priority Doc No => 09/322,169  
+Priority date => 28/05/1999
+Name of priority country => U.S.A.  
+International Publication Number => WO 00/74247  
+Abstract => Use of a more accurate, constant or quasi-constant 
+reference signal-to-noise ratio value to support the 
+process of decoding information sequences that 
+have been encoded using turbo coding techniques, 
+particularly in UMTS WCDMA receivers, enhances 
+the accuracy of the decoding process and, in turn, 
+link quality and overall system performance. This 
+may be accomplished by exploiting the reference 
+SNR, which is generated, for example, by the power 
+control loop in the receiver. More specifically, the 
+present invention modifies this reference SNR value 
+based on various factors including, but not limited 
+to, the scaling factor that is applied to the decoder 
+input metrics, power settings, processing gains, 
+coding rates and/or the modulation scheme. 
+  
+ 
+ 
+(FIG.: 3) 
+Total Pages: 21. 
+

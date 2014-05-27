@@ -1,0 +1,19 @@
+Date of filing of application number => 12/06/2001
+Title => ELECTROCHEMICAL CELL CLOSURE. 
+ 
+
+International Classification => H 01 M (71) 
+Abstract => An electrochemical cell (8) having a high capacity is described. The 
+cell (8) capacity can be increased by a method of selecting cell 
+components to achieve particular volume ratios within the cell. 
+Specific volume ratios that lead to improved capacity include the 
+ratio of the internal cell volume to the external volume, the ratio of 
+the closure volume to the external volume, the ratio of the closure 
+volume to the internal cell volume, the ratio of the seal volume to the 
+internal cell volume, and the ratio of the seal volume to the external 
+volume. 
+  
+ 
+ 
+Figure : 1.              TOTAL PAGES : 19.  
+

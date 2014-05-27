@@ -1,0 +1,17 @@
+Date of filing of application number => 09/05/2001
+Title => PROCESS FOR CONVERTING METHANOL OR DIMETHYL EITHER  
+                                       TO OLEFINS 
+ 
+
+International Classification => C 07 C 1/20 (71) 
+Abstract => There is provided a process for converting methanol or dimethyl either to a product containing C2 to 
+C4 olefins, which comprises the step of contacting a feed containing methanol or dimethyl either with 
+a catalyst which comprises a zeolite having 10-ring intersecting channels, such as ZSM-5, and which 
+has a Diffusion Parameter for 2.2-dimethylbutane of less than 100 sec-1 when measured at a 
+temperature of 1200C and a 2.2-dimethylbutane pressure of 60 torr(8kPa). The contacting step is 
+conducted at a temperature of 370 to 4800C, a methanol partial pressure of 30 to 150 psia and a 
+methanol conversion per pass of less than 95%. 
+ 
+ 
+Figure: NIL.
+

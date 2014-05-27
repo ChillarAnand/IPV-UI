@@ -1,0 +1,23 @@
+Abstract => An effective key block (EKB) used for 
+key distribution structure of tree structure is re-
+structured to a simplified two-branch or multi-branch 
+tree in which a decodable end node or leaf is at the 
+lowest layer so as to create a re-structured layered tree 
+according to only a key corresponding to the node or 
+leaf of the re-structured layered tree. A tag as 
+identification data about the tree position of an 
+encryption key stored in the EKB is stored. In the tag, 
+not only the position identification but data for judging if 
+encryption key data is present in the EKB is stored. The 
+amount of data in the EKB is greatly reduced and the 
+decoding by a device is simplified. Thus, providing an 
+information processing system and method enabling 
+reduction of the amount of data in an Effective key block 
+(EKB) used for an encryption key structure of tree 
+structure. 
+ 
+ 
+(FIG.- 26A,B.) 
+Total Pages: 148. 
+ 
+

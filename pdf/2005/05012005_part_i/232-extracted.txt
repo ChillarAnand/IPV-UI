@@ -1,0 +1,30 @@
+Date of filing of application number => 31/05/2001
+Title => X-RAY FLUORESCENT EMISSION ANALYSIS TO DETERMINE  
+                                       MATERIAL CONCENTRATION 
+ 
+
+International Classification => G 01 N 23/223 (71) 
+Abstract => A method and apparatus is disclosed to 
+determine a concentration of dopant in soot 
+that constitutes at least a portion of a soot 
+preform (12) used to form an optical wave 
+guide. The photon source (30) irradiates the 
+soot preform on a mandrel (14). X-ray 
+fluorescent emissions, from the irradiated 
+soot are detected, and the concentration of 
+dopant is determined based on the detected 
+X-ray fluorescent emissions. Additionally, 
+the concentration of dopant in layers of soot 
+on the preform can be controlled by utilizing 
+the detected X-ray fluorescent emissions to 
+determine a deviation between a 
+concentration of dopant in the soot and a 
+predetermined concentration, and adjusting 
+deposition conditions based on the deviation. 
+  
+ 
+  
+Figure: 1. 
+ 
+ 
+

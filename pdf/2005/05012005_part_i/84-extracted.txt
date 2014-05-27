@@ -1,0 +1,25 @@
+Date of filing of application number => 03/01/2001
+Title => SWITCHING POWER SUPPLY CIRCUIT 
+ 
+
+International Classification => H 02 M 3/338,  
+Abstract => A switching power supply circuit is 
+disclosed which allows selective use of 
+a switching element having a 
+comparatively low voltage 
+withstanding property and a low 
+current capacity and can be produced 
+in a low lost and with a small size. 
+Upon starting of power supply, the 
+switching frequency of the switching 
+element is raised by a soft starting 
+circuit to increase a period of time until 
+a secondary side DC output voltage 
+reaches a steady level thereof. As a 
+result, the levels of a resonance voltage 
+and a collector current obtained when 
+the switching element starts its 
+switching operation are suppressed. 
+  
+ 
+

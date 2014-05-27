@@ -1,0 +1,25 @@
+Date of filing of application number => 08/08/2001
+Title => TELEPAYMENT METHOD AND SYSTEM FOR IMPLEMENTING SAID METHOD 
+ 
+
+Priority Doc No => 99/02093  
+Priority date => 19/02/1999
+Name of priority country => FRANCE  
+International Publication Number => WO 00/49585 (72) 
+Abstract => The invention concerns a method wherein 
+the client's equipment is a mobile 
+equipment, for example of the GSM-type. 
+Besides the client (C) and the trader (M), a 
+gateway (P) intervenes in the transaction, 
+to authenticate the client and the trader and 
+ensure that the good ordered will actually 
+be paid for. The client's equipment can 
+operate with a bank payment card. 
+ 
+(FIG.: 1) 
+Total Pages: 22 
+  
+ 
+ 
+ 
+

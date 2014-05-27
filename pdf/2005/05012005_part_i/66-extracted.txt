@@ -1,0 +1,10 @@
+Abstract => A wire grid polarizer (300) for polarizing an incident light beam (130) comprises a substrate having a first surface.  A grid or array of parallel, 
+elongated, composite wires (310) is disposed on the first surface (307), and each of the adjacent wires are spaced apart on a grid period less than a wavelength 
+of incident light.  Each of the wires comprises an intra-wire substructure (315) of alternating elongated metal (330a-i) wires and elongated dielectric layers 
+(350a-i). 
+ 
+ 
+Figure: NIL 
+ 
+ 
+

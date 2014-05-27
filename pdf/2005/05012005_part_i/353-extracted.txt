@@ -1,0 +1,36 @@
+Date of filing of application number => 28/09/2001
+Title => DISPERSION COMPENSATING FIBER 
+ 
+
+Priority Doc No => 60/131, 879  
+Priority date => 30/04/1999
+Name of priority country => U.S.A.  
+International Publication Number => WO 00/67053  (72) 
+Abstract => Disclosed is a dispersion compensating optical fiber that 
+includes a core surrounded by a cladding layer of 
+refractive index nCL. The core includes at least three 
+radially adjacent regions, a central core region, a moat 
+region having a refractive index nM that is sufficiently 
+lower than nCL such that DELTA M </= -0.4 %, and a 
+ring region. As the ring region exhibits sufficiently high 
+refractive index at a sufficiently long distance from the 
+outer edge of the moat region, the fiber can exhibit low 
+values of negative dispersion slope at low values of 
+negative dispersion and yet exhibit good bending loss. 
+This ring region is also capable of imparting to the fiber 
+a relatively high cutoff wavelength, so that the present 
+invention is particularly well suited for use in L-band 
+systems. A particularly suitable fiber has an index 
+profile in which that part of the ring region at the 
+transition between the moat and the ring region has a 
+refractive index such that its delta value is close to zero. 
+Also disclosed is a method of forming the fiber of the 
+present invention. 
+  
+ 
+ 
+ 
+(FIG.: 2) 
+Total Pages: 41. 
+ 
+

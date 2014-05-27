@@ -1,0 +1,30 @@
+Date of filing of application number => 31/05/2001
+Title => OPTICAL FIBER SPOOL PROVIDING ACCESS TO THE INNER END  
+                                       OF THE WOUND OPTICAL FIBER 
+ 
+
+International Classification => B 65 H 75/14, 
+Abstract => An optical fiber shipping spool (22), winding 
+system and method for allowing automated 
+winding of an accessible lead meter portion of 
+optical fiber onto the spool (22). The spool 
+comprises primary and lead meter barrels (24, 28) 
+separated by an outboard flange (26). The outboard 
+flange (26) has a slot (32) extending to its 
+periphery, the slot (32) providing a path for fiber 
+between the lead meter and primary barrels, the slot 
+(32) having an inlet facing the lead meter barrel 
+(28) and an outlet facing the primary barrel (24). 
+The slot (32) is angled such that when fiber being 
+wound onto the lead meter barrel (28) comes into 
+contact with the slot inlet, the fiber is automatically 
+drawn into the slot (32) and then guided by the slot 
+(32) onto the primary barrel (24). According to 
+another aspect, a high-strength rib configuration is 
+disclosed including a plurality of curved, 
+intersecting ribs (90) formed on a flange (26D) of 
+the spool 
+ 
+ 
+Figure: 2B.
+

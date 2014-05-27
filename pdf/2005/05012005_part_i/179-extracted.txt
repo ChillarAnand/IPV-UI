@@ -1,0 +1,27 @@
+Date of filing of application number => 11/04/2001
+Title => A METHOD AND APPARATUS FOR PERFORMING WAVELENGTH- 
+                                       CONVERSION USING PHOSPHORS WITH LIGHT EMITTING DIODES 
+ 
+
+International Classification => H 01 L 33/00,   
+Abstract => An apparatus (100) comprises an active region (120), a 
+phosphor layer (140) and a substrate (130). The active 
+region is configured to emit light having a first band of 
+wavelengths selected from a first group of wavelengths. 
+The phosphor layer has a first refractive index. The 
+phosphor layer includes a plurality of wavelength-
+converting phosphors. The phosphor layer is configured 
+to convert the first band of wavelengths of light emitted 
+from the active region to a second band of wavelengths. 
+A center wavelength of the second band of wavelengths 
+is greater than a center wavelength of the first band of 
+wavelengths. The substrate is disposed between and in 
+contact with the active region and the phosphor layer. 
+The substrate has a second refractive index. The first 
+refractive index substantially equals the second 
+refractive index. 
+  
+ 
+ 
+Figure: 1.
+

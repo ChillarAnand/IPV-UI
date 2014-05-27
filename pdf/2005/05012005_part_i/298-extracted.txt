@@ -1,0 +1,29 @@
+Date of filing of application number => 30/07/2001
+Title => REGISTRATION METHOD AND APPARATUS, INFORMATION 
+PROCESSING METHOD AND APPARATUS, FURNISHING 
+METHOD AND APPARATUS AND PROGRAM STORAGE MEDIUM 
+ 
+
+Priority Doc No => 1) P11-354465 
+Name of priority country => JAPAN  
+International Publication Number => WO 01/44961  
+Abstract => An EMD registering server (3) receives from a 
+personal computer (1) a transmission request 
+to transmit data displayed on a screen for 
+inputting the profile of the user along with the 
+MGID and APID specifying the personal 
+computer (1), then selects data recorded in 
+correlation with the APID based on the 
+received APID, and transmits the selected data 
+to the personal computer (1). The EMD 
+registration server (3) receives the profile of 
+the user inputted according to data from the 
+personal computer and records the profile of 
+the user in correlation with the MGID. 
+ 
+(FIG.: 1) 
+Total Pages: 115. 
+  
+ 
+ 
+

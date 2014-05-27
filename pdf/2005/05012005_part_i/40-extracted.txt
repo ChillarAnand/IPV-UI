@@ -1,0 +1,35 @@
+Application number => 775/MUM/2003
+Date of filing of application number => 07/08/2003
+Title => POWER SUPPLY APPARATUS FOR ELECTRIC VEHICLE 
+ 
+
+International Classification => (71) 
+Abstract => To stabilize a voltage generated on a 
+power supply line by an electric motor, prevent a 
+battery from being overcharged, prevent an over voltage 
+from being generated , and protect system components 
+from an over voltage, even when a battery is removed 
+or no electric power is supplied from the battery to a 
+control means. [solving means ] A power supply 
+apparatus in an electric vehicle has a drive circuit  5. a 
+power supply state detecting circuit (activating unit) 12 
+activates the control circuit 4 depending on a voltage 
+value on a power  supply line of the motor 1. a voltage 
+stabilizing means including a relay 10 and a 
+regenerative resistor 11 stabilizes the voltage on the 
+power supply line when the opening and closing of the 
+relay 10 is controlled by the control circuit 4. the 
+voltage stabilizing means may constitute the drive 
+circuit 5. 
+ 
+Figure :  1. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

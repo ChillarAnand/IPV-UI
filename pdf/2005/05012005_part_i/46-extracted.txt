@@ -1,0 +1,34 @@
+Application number => 792/MUM/2003
+Date of filing of application number => 12/08/2003
+International Classification => (71) 
+Abstract => An electronic control system for an internal combustion engine comprising a controller having a fuel 
+injection control section to control an injector of a fuel injection unit to supply fuel to the engine an 
+electronic power source section to apply a driving power from a generator driven by the engine to the fuel 
+injection unit and the controller, the controller  having a first injection command generation section to 
+generate reaches a set value whereby a first fuel injection at a start of the engine is made when the first fuel 
+injection command generation section generates the injection command. 
+ 
+Figure :  NIL. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Publication After 18 months 
+ 
+The following Patent application have been published under Section 11A of the Patents 
+(Amendment) Act, 2002 
+ 
+(21) Application No.: 
+       
+792/MUM/2003          A  (22) Date of filing of Application : 
+    
+12/08/2003 
+ 
+

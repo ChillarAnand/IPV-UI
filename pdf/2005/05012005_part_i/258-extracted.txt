@@ -1,0 +1,28 @@
+Date of filing of application number => 21/06/2001
+Title => REACTION MONITORING. 
+ 
+
+International Classification => G 01 N 21/65 (71) 
+Abstract => This invention relates to a method for monitoring a 
+chemical reaction of pharmaceutical relevance, 
+comprising the steps of: consecutively obtaining Raman 
+spectrum samples of a solution of chemical constituents 
+contained within a reaction vessel, by irradiating, with 
+substantially monochromatic radiation, said solution and 
+detecting the scattered radiation; processing said Raman 
+spectrum samples by means of a multivariate data 
+analysis (MVDA) for consecutively generating at least a 
+first main component related to a latent variable 
+indicative of the progress of the reaction wherein the 
+multivariate data analysis is independent from 
+calibration using reference measurements of objects 
+having a known composition; and determining the extent 
+of the chemical reaction on basis of said at least a first 
+main component and optionally on basis of additionally 
+one or more main components generated from one or 
+more previously run reactions of the same kind. 
+  
+ 
+ 
+Figure : 01.                   TOTAL PAGES : 18. 
+

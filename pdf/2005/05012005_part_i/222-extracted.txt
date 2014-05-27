@@ -1,0 +1,30 @@
+Date of filing of application number => 28/05/2001
+Title => PAGE RESPONSE ON EXISTING RADIO SIGNALING CHANNEL 
+ 
+
+International Classification => H 04 Q 7/38 (71) 
+Abstract => When a mobile terminal in a mobile radio 
+network has a user data connection established 
+to a core network node, and receives a page 
+message on a paging channel from a second core 
+network node to which the terminal has no data 
+connection established, the mobile terminal can 
+send a page response message to the second core 
+network node on the existing signaling channel 
+between the mobile terminal and the radio access 
+network associated with the established data 
+connection to that core network node. The page 
+response then triggers a multiplexing between 
+the mobile terminal and radio access network, of 
+the established connection with the first core 
+network node and the desired call connection 
+(precipitated by the page request) from the 
+second core network node. This way, the mobile 
+station can receive simultaneous calls from two 
+different core network nodes over a common 
+traffic and signaling connection. 
+  
+ 
+ 
+Figure: 3.
+

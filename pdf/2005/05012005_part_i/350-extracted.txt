@@ -1,0 +1,29 @@
+Date of filing of application number => 26/09/2001
+Title => DEFERRED PREPAYMENT FOR UTILITY SERVICES 
+ 
+
+Priority Doc No => 99/2348  
+Priority date => 26/03/1999
+Name of priority country => ZA  
+International Publication Number => WO 00/58919  
+Abstract => A system for purchasing utility services by 
+prepayment comprises: a prepayment meter 
+for dispensing utility services; connection 
+means for connecting an electric purse to the 
+prepayment meter; and a selection facility 
+for selecting a quantity of funds available in 
+the electronic purse to be utilised for the 
+purchase of utility services. A processor 
+enables the prepayment meter to dispense 
+utility services to the value of the selected 
+quantity of funds, to decrement a credit 
+balance in the electronic purse by the 
+selected quantity of funds, and to accumulate 
+the selected quantity of funds in a storage 
+memory in the electronic purse. 
+  
+ 
+ 
+(FIG.: 1) 
+Total Pages: 10.
+

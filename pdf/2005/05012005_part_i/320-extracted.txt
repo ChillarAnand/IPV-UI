@@ -1,0 +1,24 @@
+Date of filing of application number => 30/08/2001
+Title => APPARATUS AND METHOD FOR THE RECOVERY OF COMPRESSION CONSTANTS IN THE ENCODED DOMAIN 
+ 
+
+Priority Doc No => 1) 09/249,596 
+Name of priority country => U.S.A.  
+International Publication Number => WO 00/48405  
+Abstract => The system and method of the present disclosure 
+provides an innovative technique and efficient 
+hardware structure for recovering lost or damaged 
+compression constants in the encoded domain. In 
+one embodiment, a lost/damaged compression 
+constant is recovered by estimating (110) a 
+compression constant of the block using encoded 
+data of at least one neighboring block of data and 
+other recoverable compression constants of the 
+block. 
+ 
+(FIG.: 1.) 
+Total Pages: 26 
+  
+ 
+ 
+

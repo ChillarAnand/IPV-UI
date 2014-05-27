@@ -1,0 +1,15 @@
+Date of filing of application number => 19/04/2001
+Title => BATTERY PACK HAVING A STATE OF CHARGE INDICATOR 
+ 
+
+International Classification => G 01 R 31/36 (71) 
+Abstract => A battery pack (10) for a portable electronic device includes a case (12) for carrying a battery (36). The case 
+(12) supports a charge sensing circuit (20) carried by the case, the charge sensing circuit producing a 
+discharge signal corresponding to a measurement of an amount of charge removed from a battery. The case 
+also supports a processor (22) responsive to the discharge signal from the charge sensor circuit to produce a 
+signal corresponding to an amount of time prior to discharge of the battery based on a current rate of 
+discharge and a display (14) responsive to the signal to display a time period corresponding to the amount of 
+time to discharge the battery based upon the current rate of discharge of the battery. 
+ 
+Figure: 2.
+

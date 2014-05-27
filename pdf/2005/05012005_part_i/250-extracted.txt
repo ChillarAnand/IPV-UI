@@ -1,0 +1,24 @@
+Abstract => An improved network flow system includes an 
+Internet/intranet enabled network flow computer with 
+at least one flow measurement device and a host 
+computer capable of communicating using Internet 
+technology or through local connection to the flow 
+computer. In one embodiment, the Internet enabled 
+network flow computer receives flow measurement 
+data, in raw or calculated form, from one or more 
+measurement devices. The host computer connects to 
+the network flow computer via the Internet, an intranet 
+or local connections. The host computer transmits or 
+receives data from the network flow computer, 
+including the capability to view flow data results in 
+web page format on the host computer and the 
+capability to remotely or locally configure and control 
+the flow computer from the host computer. 
+ 
+Figure : 03. 
+TOTAL PAGES : 77. 
+ 
+  
+ 
+ 
+

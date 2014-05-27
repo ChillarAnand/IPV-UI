@@ -1,0 +1,22 @@
+Date of filing of application number => 01/01/2001
+Title => METHODS OF EXTRACTING CATALYST FROM A REACTION  
+                                     MIXTURE IN THE OXIDATION OF CYCLOHEXANE TO ADIPIC ACID 
+ 
+
+International Classification => C 07 C 51/31,  
+Abstract => This invention  relates to methods of controlling the oxidation of cyclohexane to adipic acid in the 
+presence of a monobasic acid solvent by extracting the catalyst from the reaction mixture, outside the 
+reaction zone. Substantially all the unreacted cyclohexane, the majority of adipic acid, and preferably 
+substantially all the monobasic acid solvent are preferably removed from the reaction product. In the 
+case that substantially all the monobasic acid solvent is removed, protic solvent, is added 
+intermittently or continuously in the reaction mixture during the removal of the monobasic acid 
+solvent, preferably by distillation, for preventing solids precipitation. Dipolar aprotic solvent is then 
+added in the presence of an adequate amount of the protic solvent (the total of dipolar aprotic solvent 
+and the protic solvent constituting a novel combination solvent) to maintain a single liquid phase, 
+followed by a step of extracting substantially all the catalyst in protic solvent. The catalyst extract is 
+preferably recycled to the reaction zone, where the cyclohexane is oxidized to adipic acid.  Thus the 
+novel combination solvent, which is preferably a combination of cyclohexanone with water, allows 
+the dissolution of the reaction product, preferably after removal of the majority of the adipic acid, 
+followed by a substantially complete extraction of the catalyst in water.  No catalyst precipitation 
+takes place, and all disadvantages and costs of solids handling are prevented. 
+

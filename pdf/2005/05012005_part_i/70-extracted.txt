@@ -1,0 +1,24 @@
+Date of filing of application number => 28/08/2003
+Title => METHOD AND SYSTEM FOR RETRIEVING CONFIRMING SENTENCES. 
+ 
+
+International Classification => (71) 
+Abstract => A method, computer readable medium and system are provided which retrieve confirming 
+sentences from a sentences database in response to a query. A research engine retrieves confirming 
+sentences from the sentence database in response to the query. In retrieving the confirming sentences, the 
+search engine defines indexing units associated with the query and extended indexing units associates with 
+the query. The search engine then retrieves a plurality  of sentences from the sentence database using thee 
+defined indexing units as search parameters. A defined between each of the determined by the search 
+sentences and the query is determined by the search sentences and the query is determined by the search 
+engine, wherein each similarity is determined as a function of a linguistic weight of a term in the query. The 
+search engine then ranks the plurality of retrieved sentences based upon the determined similarities. 
+ 
+ 
+ 
+ 
+Figure :  NIL. 
+ 
+ 
+ 
+ 
+

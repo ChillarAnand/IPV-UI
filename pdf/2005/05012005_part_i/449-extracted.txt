@@ -1,0 +1,30 @@
+Date of filing of application number => 10/12/2001
+Title => OPTICAL WAVEGUIDE HAVING NEGATIVE DISPERSION  
+ AND LARGE Aeff. 
+ 
+
+Priority Doc No => 1) 60/145,759 
+International Classification => G 02 B 6/22 (71) 
+Name of priority country => U.S.A.  
+Abstract => The invention is directed to a single mode optical 
+waveguide fiber profile (18, 20, 22, 24) that provides 
+relatively large effective area while limiting macrobend 
+loss. The large effective area results from configuring the 
+core of the waveguide fiber to shift propagated light power 
+away from the waveguide center. Macrobend loss, as 
+measured by pin array or 20 mm mandrel testing, is 
+maintained low by means of a power-limiting index 
+depression (24) surrounding the central core region of the 
+waveguide. In addition, low attenuation is achieved and cut 
+off wavelength is controlled to provide a 
+telecommunications operating window in the wavelength 
+range of about 1250 nm to 1700 nm. 
+Total Pages : 28. 
+  
+ 
+ 
+( Figure: 03 ) 
+ 
+ 
+ 
+

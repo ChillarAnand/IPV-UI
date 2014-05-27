@@ -1,0 +1,31 @@
+Date of filing of application number => 13/07/2001
+Title => ENERGY GAUGE 
+ 
+
+International Classification => H 02 J 7/00, 
+Abstract => An energy gauge for indicating 
+the amount of residual power 
+available from a battery includes 
+means for storing a 
+predetermined value of a power 
+parameter indicative of full 
+battery capacity, means for 
+determining the instantaneous 
+power consumption indicated by 
+the parameter, means for 
+integrating the power 
+consumption indicative of the 
+parameter since commencement 
+of use of the battery, means for 
+subtracting the integrated 
+consumption from the stored 
+value of full capacity to provide 
+a value of power remaining, and 
+readout means for providing a 
+representation of the power 
+remaining. 
+  
+ 
+ 
+Figure: 2.
+

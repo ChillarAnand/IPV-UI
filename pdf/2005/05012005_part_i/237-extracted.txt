@@ -1,0 +1,30 @@
+Date of filing of application number => 06/06/2001
+Title => FRICTIONAL ENGAGING DEVICE AND FRICTIONAL ENGAGEMENT CONTROL METHOD. 
+ 
+
+International Classification => F 16 D 28/00 (71) 
+Abstract => A frictional engaging device and frictional engagement 
+control method, wherein with attention paid to the 
+phenomenon of the frictional coefficient of the friction 
+surfaces of a friction engagement device being changed 
+when an electric field is applied to the friction surfaces, 
+this phenomenon is utilized to control the transmittal 
+force. Under the action of a pushing force, friction 
+engagement members are brought into direct contact 
+with each other for frictional engagement. When an 
+electric field is applied between the frictional 
+engagement members, the frictional coefficient of the 
+friction surfaces changes, which means that the 
+transmittal force can be changed. An example of the 
+frictional engagement device is a clutch device (10). A 
+friction member (20) made of insulation material is 
+attached to an input disk (16) and engages an output disk 
+(22). The friction surfaces are lubricated. A control 
+device (30) controls a voltage applying device (28) and 
+applies a voltage to an electrode (26) to provide a 
+desired transmittal force. 
+  
+ 
+ 
+Figure : 2.                 TOTAL PAGES : 22. 
+

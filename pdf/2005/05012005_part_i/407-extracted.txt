@@ -1,0 +1,16 @@
+Abstract => The invention relates to a method of controlling an arrangement designed for generating cold air for 
+cooling objects that are in need of being cooled, and an arrangement for carrying out the method. The arrangement 
+includes a compressor (1) having air inlet means and compressed air outlet means, a heat exchanger (2) connected to the 
+compressor outlet means via a first conduit (4) and functioning to cool the compressed air, a helical screw expander (3) 
+which is connected to the heat exchanger (2) via a second conduit (5) and which includes an outlet for expanded and 
+cooled air, and a third conduit (16) which extends from the outlet of said expander (3) to the object in need of being 
+cooled. The method is characterised by sensing the temperature of air exiting from the expander (3) at a position in or 
+downstream of the expander outlet, and by controlling the mass flow of air to the expander (3) in accordance with the 
+temperature sensed. The arrangement for generating cold air for cooling objects that are in need of being cooled is 
+characterised by a temperature sensor (11) positioned in the expander outlet or in the third conduit (6), and by a device (7, 
+8, 9; 10) which is actuated by the temperature sensor (11) and which functions to adjusts the mass flow through the 
+expander (3) in accordance with the temperature sensed. 
+ (FIG.-1.) 
+Total Pages: 18.  
+ 
+

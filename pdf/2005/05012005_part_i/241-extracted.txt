@@ -1,0 +1,26 @@
+Date of filing of application number => 12/06/2001
+Title => NICKEL MIXED HYDROXIDE, METHOD FOR THE 
+PRODUCING THE SAME, AND THE USE THEREOF AS  
+A CATHODE MATERIAL IN ALKALINE BATTERIES. 
+ 
+
+International Classification => H 01 M 4/52 (71) 
+Abstract => The invention relates to a nickel mixed hydroxide, comprising Ni as a primary element and 
+having a layer structure comprising at least one element Ma which is selected from the group Fe, Cr, Co, Ti, 
+Zr and Cu, and which exists in two different oxidation levels that, with regard to the number of outer 
+electrons, differ by one electron.  The inventive nickel mixed hydroxide also comprises; at least one element 
+Mb which is present in the trivalent oxidation level and which is selected from the group B, Al, Ga, In and 
+SE (rare-earth metals); optionally comprises at least one element Mc which is present in a bivalent oxidation 
+level and which is selected from the group Mg, Ca, Sr, Ba and Zn; comprises, in addition to the hydroxide, 
+at least one additional anion selected from the group halogenides, carbonate, sulfate, oxalate, acetate, borate 
+and phosphate in a quantity which is sufficient to ensure the electroneutrality of the mixed hydroxide; and 
+comprising hydration water in a quantity which stabilizes the respective structure of the mixed hydroxide.  
+The inventive nickel-mixed hydroxide is produced by coprecipitating the hydroxide in a alkaline medium.  
+The inventive nickel mixed hydroxide are characterized by a very high electrochemical utilization of the 
+nickel ions, high capacitances with regard to mass, and a very good cycle stability and, as a result, are 
+advantageously suited as cathode material in alkaline batteries. 
+ 
+Figure : NIL 
+ 
+TOTAL PAGES : 28. 
+

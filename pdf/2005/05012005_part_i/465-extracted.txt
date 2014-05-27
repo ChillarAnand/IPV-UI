@@ -1,0 +1,31 @@
+Date of filing of application number => 28/12/2001
+Title => ELECTRONIC DEVICE 
+ 
+
+International Classification => H05K 7/20 
+Name of inventor => 1. YAMAZAKI  KOUICHI 
+ 
+  
+ 
+ 
+
+Abstract => An electronic device having a circuit 
+board, a shielding plate disposed thereon and a three-
+terminal regulator is provided with a heat sink positioned 
+on the outer side of the circuit board and connected to 
+the three-terminal regulator. The heat of three-terminal 
+regulator is radiated from the heat sink, thus making it 
+possible to prevent heating of the shielding plate. In this 
+way, electronic device elements that do not stand up 
+very well to heat, such as an optical pickup unit, can be 
+placed directly on shielding plate, so that the heat of 
+three-terminal regulator is efficiently dissipated and the 
+size of the electronic devices may be reduced. 
+ 
+  
+Figure: 7. 
+Total Pages: - 25 
+ 
+ 
+ 
+

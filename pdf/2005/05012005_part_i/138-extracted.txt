@@ -1,0 +1,25 @@
+Date of filing of application number => 23/02/2001
+Title => USE OF CIC TO IDENTIFY CALLS WHEN USING ISUP IN  
+                                       CONJUNCTION WITH AAL TYPE 2 SIGNALING PROTOCOL 
+ 
+
+International Classification => H 04 Q 11/00 (71) 
+Abstract => In an asynchronous transfer mode (ATM) based transmission network, call control signaling 
+information associated with a first telecommunications signaling protocol, such as an N-ISDN 
+system 7 signaling protocol, is bound to bearer control signaling information associated with a 
+Q.aal2 signaling protocol, where both call control signaling information and bearer control signaling 
+information are required to set-up and maintain an ATM network connection. Binding the call 
+control signaling information and the bearer control signaling information is accomplished as a 
+function of the circuit identification code associated with the call control signaling information, 
+where the circuit identification code is transferred from the N-ISDN system 7 signaling protocol to 
+the Q.aal2 signaling protocol. The call control signaling information and the bearer control signaling 
+information are then independently transported from a source node in the transmission network to a 
+destination node, over an ATM/ATM adaptation layer type 5 transmission link, in accordance with 
+the ISUP system 7 signaling protocol and the Q.aal2 signaling protocol respectively. At the 
+destination node, the call control signaling information and the bearer control signaling information 
+are aligned as a function of the circuit identification code, and an ATM network connection is 
+established. 
+ 
+Figure: NIL. 
+ 
+

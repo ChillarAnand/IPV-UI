@@ -1,0 +1,23 @@
+Application number => 313/MUM/2005
+Date of filing of application number => 22/03/2005
+Title => A SPECIALIZED LAYER 2 SWITCHED NETWORK 
+ 
+
+Priority Doc No => NIL  
+Name of priority country => NIL  
+International Publication Number => NIL 
+Abstract => A method and system for realizing a large layer 2 packet switched network built with the 
+new layer 2 switch apparatus, disclosed in this invention, for a specialized environment where 
+unconditional communication between the nodes of the network is not required and where the Client 
+Nodes access is limited to centralized services, thereby restricting the traffic mainly between the Nodes 
+and the application servers, together with a controlled policy based mechanism for allowing Client Node 
+to Client Node communication, is disclosed. 
+ 
+ 
+ 
+(FIG. ) : NIL 
+Total pages : 30 
+ 
+ 
+ 
+

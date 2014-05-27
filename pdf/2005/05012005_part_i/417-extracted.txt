@@ -1,0 +1,20 @@
+Abstract => A content key, an authentication key, program 
+data along with an effective key block (EKB) are transmitted by 
+an encryption key structure of a tree structure. The EKB has a 
+structure in which a device constituting a tree leaf holds a leaf 
+key and a limited node key. A specific effective key block 
+(EKB) is generated and distributed to a group specified by a 
+specific node, thus limiting an updateable device. A device not 
+belonging to a group cannot be decoded, ensuring the 
+distribution security of the key and so forth. Keys or data is 
+distributed by an encryption key structure of tree structure, 
+thereby providing an information processing system and 
+method capable of efficiently and safely distributing data. 
+ 
+ 
+Total Pages: 85. 
+ 
+ 
+  (FIG. 14) 
+ 
+

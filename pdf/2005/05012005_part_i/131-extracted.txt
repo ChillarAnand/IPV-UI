@@ -1,0 +1,32 @@
+Date of filing of application number => 16/02/2001
+Title => OPTICAL CHANNEL WAVEGUIDE AMPLIFIER 
+ 
+
+International Classification => H 01 S 3/063 (71) 
+Abstract => An optical channel waveguide amplifier and fabrication 
+process are provided for an optical communications 
+system. The amplifier employs an optical waveguide 
+having a core of active material exhibiting optical 
+fluorescence when stimulated. The core has a 
+propagation axis extending from an input surface to an 
+output surface. The input surface intersects the 
+propagation axis at a non-orthogonal angle (e.g, 45 DEG 
+). A cladding at least partially surrounds the core, and a 
+coating is provided over the angled input surface of the 
+core. The coating is anti-reflective of the optical signal, 
+input at a predetermined signal wavelength, and is 
+highly reflective of the pump, input at a predetermined 
+pump wavelength. A prism, index-matched to the core, 
+is secured to the angled face of the optical waveguide so 
+that the input signal may be focused into the core 
+through the prism and the coating collinearly with the 
+axis of propagation, while the pump is reflected into the 
+core off the coating at the angled input surface from an 
+angle to the axis of propagation. The optical signal 
+undergoes amplification within the core by stimulated 
+emissions of the active material driven by the pump. 
+  
+ 
+Figure: 5. 
+ 
+

@@ -1,0 +1,28 @@
+Date of filing of application number => 11/04/2001
+Title => METHOD AND APPARATUS USING ATTENUATION OF RADIATION  
+                                       TO DETERMINE CONCENTRATION OF MATERIAL IN OBJECT 
+ 
+
+International Classification => G 01 N 23/02,  
+Abstract => An apparatus for determining dopant 
+concentration in soot that constitutes at least a 
+portion of a soot preform used to form an optical 
+waveguide includes a weight-measuring device, 
+a thickness-parameter-measuring device, a 
+radiation source, a radiation sensor, and a 
+determination device. The weight-measuring 
+device measures the weight of the soot preform. 
+The thickness-parameter-measuring-device 
+measures a thickness parameter of the soot 
+preform. The radiation source irradiates the soot 
+with penetrating radiation. The radiation sensor 
+detects intensity of penetrating radiation passing 
+through the soot. The determination device 
+determines a concentration of dopant in the soot 
+based on the detected intensity of penetrating 
+radiation and the measured weight and thickness 
+parameter. 
+  
+ 
+ 
+

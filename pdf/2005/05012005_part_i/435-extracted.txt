@@ -1,0 +1,20 @@
+Abstract => A method is provided for scaling up permeabilities associated with 
+a fine-scale grid of cells representative of a porous medium (fig.1) to 
+permeabilities associated with an unstructured coarse-scale grid of cells 
+representative of the porous medium (fig.3). An areally unstructured, Voronoi, 
+computational grid is generated using the coarse-scale grid as the genesis of the 
+computational grid. The computational grid is then populated with permeabilities 
+associated with the fine-scale grid. Flow equations are developed for the 
+computational grid, the flow equations are solved, and inter-node fluxes and 
+pressure gradients are then computed for the computational grid. These inter-
+node fluxes and pressure gradients are used to calculate inter-node average 
+fluxes and average pressure gradients associated with the coarse-scale grid. The 
+inter-node average fluxes and average pressure gradients associated with the 
+coarse grid are then used to calculate upscaled permeabilities associated with the 
+coarse-scale grid. 
+  
+ (FIG.- 3.) 
+ 
+Total Pages: 33. 
+ 
+

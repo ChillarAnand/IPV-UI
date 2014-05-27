@@ -1,0 +1,35 @@
+Date of filing of application number => 25/09/2001
+Title => SYSTEM AND METHOD FOR MEASURING POLARIZATION 
+MODE DISPERSION IN FIBERS 
+ 
+
+International Classification => GO1M 11/00 
+Name of inventor => 1. ALLEN DAVID  
+2. EVANS ALAN  
+3. RACKI JEROME 
+ 
+
+Abstract => A system for measuring polarization 
+mode dispersion (PMD) in a fiber using a polarizer 
+controlling the polarization state of light input to the fiber 
+and a polarization analyzer measuring the polarization 
+state of light output from the fiber. Jones matrix analysis 
+is applied to data derived from three input polarization 
+states and two wavelenghts of probing radiation. 
+Performance is improved by using incoherent light 
+sources such as light emitting diodes in conjunction with 
+two bandpass filters. However, a laser source and 
+optical detector are used to align the fiber. The system 
+is particularly useful in measuring PMD values in short 
+lengths of fiber and mapping those values with a long 
+fiber from which the test fiber was cut. Preferably, the 
+PMD is measured for various values of twist 
+experimentally induced in the test fiber, and the short-
+length PMD value is that associated with zero-internal 
+twist in the fiber as calculated according to a model. The 
+fiber may also be loaded during measurement.  
+  
+Figure: 1. 
+Total Pages: - 24 
+ 
+

@@ -1,0 +1,15 @@
+Date of filing of application number => 20/02/2001
+Title => PEPTIDE FRAGMENTS OF CHOLERA TOXIN B OR ENTEROTOXIN B  
+                                       AS VACCINE ADJUVANTS 
+ 
+
+International Classification => C 07 K 14/28,  
+Abstract => A substance is described.  The substance comprises any one or more of an amino acid sequence 
+comprising the sequence presented as SEQ ID No. 2, or a variant thereof, or a homologue thereof, or 
+a fragment thereof, or a derivative thereof, or a mimetic thereof; which substance is capable of acting 
+in a manner that is the same as or is similar to EtxB and/or CtxB; but wherein the substance does not 
+exhibit GM–1  binding activity. 
+ 
+Figure: NIL. 
+ 
+

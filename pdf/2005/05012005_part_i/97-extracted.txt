@@ -1,0 +1,11 @@
+Date of filing of application number => 10/01/2001
+Title => SMALL INLET OPTICAL PANEL AND A METHOD OF MAKING A  
+                                       SMALL INLET OPTICAL PANEL 
+ 
+
+International Classification => G 02 B 6/04 (71) 
+Abstract => An optical panel having a small inlet, and a method of making a small inlet optical panel, are disclosed, 
+which optical panel includes individually coating, stacking, and cutting a first plurality of stacked optical 
+waveguides (16a) to form an outlet face body (32) with an outlet face (16), individually coating, stacking, 
+and cutting a second plurality of stacked optical waveguides (12a) to form an inlet face body with an inlet 
+

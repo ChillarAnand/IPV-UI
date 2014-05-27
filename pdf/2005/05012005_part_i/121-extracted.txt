@@ -1,0 +1,18 @@
+Date of filing of application number => 09/02/2001
+Title => THIN DISPLAY OPTICAL PROJECTOR  
+ 
+
+International Classification => G 02 B 6/04, 
+Abstract => An optical system (20) projects light into a planar 
+optical display (10). The display includes 
+laminated optical waveguides (12) defining an 
+inlet face (14) at one end and an outlet screen (16) 
+at an opposite end. A first mirror (26) collimates 
+light from a light source (18) along a first axis, 
+and distributes the light along a second axis. A 
+second mirror (28) collimates the light from the 
+first mirror along the second axis to illuminate the 
+inlet face and produce an image on the screen. 
+ 
+Figure: 1.
+

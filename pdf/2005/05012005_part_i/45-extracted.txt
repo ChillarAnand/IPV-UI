@@ -1,0 +1,37 @@
+Application number => 784/MUM/2003
+Date of filing of application number => 11/08/2003
+Title => A PROCESS FOR PREPARATION OF CRYSTALLINE 1-[3-
+(DIMETHYLAMINO) PPROPYL]-1-(4-FLUORO[HENYL)-1-3-
+DIHYDRO-5-ISOBENZOFURAN CARBONITRILE. 
+ 
+
+International Classification => (71) 
+Abstract => The present invention provides for preparation of crystalline 1-[3-(dimethylamino) propyl]-1-(4-
+fluorophenyl)-1,3-dihydro-5-isobenzofuran carbonitrile, a compounds of formulation 1, comprising 
+Comprising, 
+a) subjecting 5-cyanopthalide to a Grignard reaction with 4-fluorophenyl magnesium halide at a low 
+temperature, 
+b) subjecting the resultant  reaction mixture to a Grignard reaction with 3- dimethylsminopropyl 
+magnesium halide at a low temperature, 
+c) treating the resultant compounds of formulation 2, 4-[4-(dimethylamino)-1-(4-fluorophenyl)-1-
+hydroxybutyl]-3-(hydroxymethyl) benzonitrile with the acid, 
+d) isolating the crystalline compounds of formulation 1, 
+Wherein, 
+(i) the low temperature in step ‘a’ and ‘b’ are such, and 
+(ii) the acid used in step ‘c’ is in such amount concentration, 
+that the compounds of formulation 1 obtained in step ‘d’ crystalline. 
+ 
+Figure :  NIL. 
+Publication After 18 months 
+ 
+The following Patent application have been published under Section 11A of the Patents 
+(Amendment) Act, 2002 
+ 
+(21) Application No.: 
+       
+784/MUM/2003          A  (22) Date of filing of Application : 
+    
+11/08/2003 
+ 
+(54) Title of the invention : ELECTRONIC CONTROL SYSTEM FOR ENGINE 
+

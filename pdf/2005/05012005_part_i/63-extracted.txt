@@ -1,0 +1,36 @@
+Application number => 821/MUM/2003
+Date of filing of application number => 18/08/2003
+Title => A DEVICE AND METHOD FOR OBTAINING WATER FROM ATMOSPHERE. 
+       
+
+International Classification => (71) 
+Abstract => The present device of this invention for obtaining potable water from atmosphere comprises, A compressor (16) is provided for compressing a 
+refrigerant.  A condenser (18) is provided for condensing the refrigerant received from the compressor (16).  An evaporator coil (14) is provided for receiving at 
+one end thereof compressed refrigerant from the condenser (18) and being disposed in a water tank (12).  The evaporator (14) is operable for evaporating 
+refrigerant and thereby cooling the potable water (13) in the water tank (12).  Drip coils (28) are provided for condensing the potable water from the ambient air 
+with the cooled potable water (13) from the water tank passing through the drip coils (28) before returning to the water tank (12).  A fan (20) is provided for 
+blowing ambient air about the drip coils (28) and the condenser (18).  A discharge device (44).  A filter (40) and ultra-violet light source (42) are provided for 
+sterilizing the potable water (13) and a non-toxic coating is provided and disposed on the interior of the drip coil (28) and the exterior of the evaporator (14) 
+with the non-toxic coating comprising 25 to 35 percent titanium oxide. 
+ 
+This invention also relates to a method of obtaining potable water from atmospheric air by using the above device. 
+ 
+ 
+Figure: NIL 
+ 
+ 
+ 
+ 
+Publication After 18 months 
+ 
+The following Patent application have been published under Section 11A of the Patents 
+(Amendment) Act, 2002 
+ 
+(21) Application No.: 
+       
+834/MUM/2003          A  (22) Date of filing of Application : 
+    
+21/08/2003 
+ 
+ 
+

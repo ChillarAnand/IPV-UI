@@ -1,0 +1,17 @@
+Abstract => Update of a master key and a media key is 
+transmitted along with a key update block (KRB) through a 
+key distribution system of tree structure.  The KRB bas a 
+structure where devices constituting leaves of the tree 
+have a leaf key and a limited node key and creates and 
+distributes a specific key update block (KRB) to a group 
+specified by a specific node, thereby limiting updateable 
+devices.  Any device not belonging to the group cannot 
+decode the data, thus ensuring the safety of key 
+distribution.  Especially, in a system using a master key 
+under generation control, an update master key is 
+distributed by a KRB. 
+ 
+ (FIG.- 13.) 
+Total Pages: 170. 
+ 
+

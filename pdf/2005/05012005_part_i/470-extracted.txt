@@ -1,0 +1,34 @@
+Date of filing of application number => 31/12/2001
+Title => SWITCHING POWER SUPPLY CIRCUIT 
+ 
+
+International Classification => H02M 3/338 
+Name of inventor => 1. YASUMURA MASAYUKI  
+ 
+  
+ 
+ 
+
+Abstract => A switching power supply circuit, which 
+is small, lightweight, and highly efficient in power 
+conversion, includes an insulating converter 
+transformer, which is formed by a core with no gap and 
+a primary and secondary winding wound on the core 
+such that the mutual inductance between the windings 
+exhibits an additive mode. A half-wave rectifier circuit is 
+provided on the secondary side of the circuit and 
+performs a rectification operation in the additive mode to 
+obtain a secondary side DC output voltage. In a 
+constant voltage control circuit system for stabilizing the 
+secondary side output voltage, the switching frequency 
+of a switching element is varied in response to the 
+secondary side output voltage level to control the 
+resonance impedance of a primary side parallel 
+resonance circuit and the continuity angle of the 
+switching element compositely. 
+ 
+  
+Figure: 1. 
+Total Pages: - 57 
+ 
+

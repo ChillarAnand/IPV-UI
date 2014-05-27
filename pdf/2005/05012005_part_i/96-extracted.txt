@@ -1,0 +1,25 @@
+Date of filing of application number => 08/01/2001
+Title => LONG HAUL SINGLE MODE WAVEGUIDE 
+ 
+
+International Classification => G 02 B 6/02 (71) 
+Abstract => Disclosed is a single mode optical waveguide 
+fiber having a segmented core. The relative 
+indexes, the refractive index profiles and the 
+radii of the segments are chosen to provide 
+waveguide fiber properties advantageously used 
+in severe environments, such as, undersea 
+cables. The segmented core waveguide fiber 
+has a negative total dispersion over the 
+operating window of about 1530 nm to 1570 
+nm, which serves to eliminate soliton 
+formation. The key properties of dispersion 
+zero, cut off wavelength, attenuation, and bend 
+resistance fall within desired ranges. The 
+waveguide also features a low polarization 
+mode dispersion. 
+  
+ 
+Figure: 1A. 
+ 
+

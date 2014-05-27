@@ -1,0 +1,21 @@
+Date of filing of application number => 27/02/2001
+Title => A MACHINE AND A METHOD THEREFOR 
+ 
+
+International Classification => H 02 K (71) 
+Abstract => A rotating elelctric machine comprising a 
+stator (2) and a rotor (1). The stator includes a 
+core of a magnetizable material and a winding 
+(8). The rotor rotates in relation to the stator 
+with one degree of freedom. The stator 
+comprises a cup-shaped cavity (9) surrounding 
+the rotor. The cavity is limited by a rotational 
+surface which is formed by a line which 
+rotates around an axis and where the line is 
+partly arched. 
+  
+ 
+ 
+Figure: 2. 
+ 
+

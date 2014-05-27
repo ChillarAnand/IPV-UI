@@ -1,0 +1,27 @@
+Date of filing of application number => 28/03/2001
+Title => A DATA PROCESSING SYSTEM AND METHOD FOR PERFORMING  
+                                       AN ARITHMETIC OPERATION ON A PLURALITY OF SIGNED DATA  
+                                       VALUES 
+ 
+
+International Classification => G 06 F 9/302, 7/48 (71) 
+Abstract => The present invention provides a data processing system for performing an arithmetic operation on a 
+plurality “p” of signed “n-bit” data values, and a method of operating such a data processing system.  
+The technique of the present invention involves encoding the plurality of signed n-bit data values as 
+a composite value comprising p n-bit fields by performing an encoding operation equivalent to 
+aligning each signed data value with a respective n-bit field, sign extending each signed data value to 
+the most significant bit of the composite value, and adding the aligned and sign extended data values 
+to form the composite value.  Then the arithmetic operation is applied to the composite value to 
+produce an encoded result comprising p n-bit fields, and the encoded result is decoded to produce p 
+final results by applying a decoding operation equivalent to extracting the data from each n-bit field 
+of the encoded result and correcting for any effect caused by the addition of an adjacent sign 
+extended data value during the encoding step, whereby each final result represents the application of 
+the arithmetic operation to a corresponding signed n-bit data value.  In accordance with the present 
+invention, two or more signed data values are encoded into a composite value, and the composite 
+value is then processed using standard instructions as if they were SIMD instructions.  This is made 
+possible by use of a particular encoding of the signed data values which avoids the problems with 
+overflow and underflow between two adjacent data values.  Since this encoding enables standard 
+instructions to be used, much of the benefits of using SIMD extensions can be achieved without the 
+cost of extra hardware or new instructions which SMID techniques necessitate. 
+ 
+

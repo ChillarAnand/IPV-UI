@@ -1,0 +1,26 @@
+Date of filing of application number => 29/06/2001
+Title => INFORMATION PROCESSOR AND PROCESSING METHOD, AND INFORMATION STORAGE MEDIUM. 
+ 
+
+International Classification => G 10 K 15/02 (71) 
+Abstract => An information processor for checking in a content to an 
+apparatus connected or checking out a content 
+therefrom. The maximum possible number of checkouts 
+of a content is indicated with the type of specified 
+symbols and the name corresponding to the content is 
+also indicated. A desired content can be checked in or 
+out quickly by indicating the maximum possible number 
+of checkouts of the contents. 
+ 
+Figure : 04. 
+ 
+TOTAL PAGES : 159. 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+

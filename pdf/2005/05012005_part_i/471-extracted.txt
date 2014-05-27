@@ -1,0 +1,33 @@
+Date of filing of application number => 31/12/2001
+Title => SWITCHING POWER SUPPLY 
+ 
+
+International Classification => H02M 3/338 
+Name of inventor => 1. YASUMURA MASAYUKI  
+ 
+
+Abstract => A power supply uses a switching 
+element of a desired voltage withstanding property to 
+obtaina desired conversion output. The power supply 
+includes a converter transformer having primary 
+andsecondary windings loosely coupled to one another, 
+and an auxiliary winding with a predeterminednumber of 
+turns wound contiguously from one end of the primary 
+winding to an end portion of theconverter transformer. 
+An input voltage smoothing capacitor is connected on 
+one side to an end ofthe primary winding of the 
+converter transformer through a forwardly directed 
+diode. A switchingelement is connected to the other end 
+of the primary winding. A control circuit controls the 
+switchingelement to perform switching so that an output 
+voltage of the secondary winding has a 
+predeterminedvoltage value (or is within a 
+predetermined voltage range). A second capacitor is 
+coupled acrossopposite ends of the auxiliary winding via 
+the forwardly directed diode, to boost-up voltage 
+appliedto the converter transformer. 
+  
+Figure: 1. 
+Total Pages: - 32 
+ 
+

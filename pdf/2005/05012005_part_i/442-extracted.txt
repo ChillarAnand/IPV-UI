@@ -1,0 +1,22 @@
+Date of filing of application number => 05/12/2001
+Title => AUTOMATIC SEAMING MACHINE. 
+ 
+ 
+
+Priority Doc No => 9913244.1 
+Priority date => 08/06/1999
+International Classification => D 03 D 41/00 (71) 
+Name of priority country => UNITED 
+Abstract => An automatic seaming machine for joining by weaving two opposed fabric ends.  The machine 
+comprising an end selector (50) driven by an end selector drive for selecting a free warp yarn and an inserter means 
+(70) driven by an inserter means drive for pulling the yarn thus selected through the shed to join the ends together.  A 
+fault detector monitors the selection of the yarn by the end selector (50), and an inserter pick-up detector monitors the 
+engagement and pulling of the yarn by the inserter means (70), such that if a fault occurs in either the selection or 
+engagement/pulling the respective fault detector and inserter pick-up detector sends a fault signal to a central control 
+means which in turn then sends a stop signal to the end selector drive and the inserter means drive in order to bring the 
+machine to a complete halt and thereby terminate the weaving process. 
+ 
+( Figure: NIL ) 
+ 
+Total Pages : 24. 
+

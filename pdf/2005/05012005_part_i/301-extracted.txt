@@ -1,0 +1,35 @@
+Date of filing of application number => 31/07/2001
+Title => METHODS OF PHOTOSENSITIZING GLASSES WITH HYDROGEN OR DUETERIUM AND WAVEGUIDES RESULTING THEREFROM 
+ 
+
+Priority Doc No => 09/252,151   
+Priority date => 18/02/1999
+Name of priority country => U.S.A.  
+International Publication Number => WO 00/49437  (72) 
+Abstract => A method for enhancing the photosensitivity of glasses useful 
+in forming waveguides, where the waveguide material 
+exhibits persistent UV photosensitivity after diffusion of 
+hydrogen or deuterium out of the waveguide material. An 
+optical waveguide fiber (22), with a cladding layer (26) and a 
+portion of the polymeric coating (28) removed, has a core 
+(24) which has been loaded with hydrogen or deuterium to 
+form a waveguide core (24) with an associated baseline 
+refractive index. At least a portion of the exposed fiber 
+waveguide is exposed to UV radiation (32) to induce a 
+change in the refractive index and then annealed to diffuse the 
+hydrogen or deuterium gas out and stabilize the refractive 
+index change. The resulting waveguide fiber retains sufficient 
+UV sensitivity to allow further changes in the refractive 
+index, such as grating formation. This process is useful in 
+fabricating grating devices, modifying or tuning gratings for 
+optimum strength or wavelength characteristics and providing 
+accurate spatial control of waveguide sensitivity. 
+  
+ 
+ 
+ 
+ 
+(FIG.: 1) 
+Total Pages: 19. 
+ 
+

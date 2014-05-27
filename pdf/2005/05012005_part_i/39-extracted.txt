@@ -1,0 +1,31 @@
+Title => ROTATION DETECTING APPARATUS 
+ 
+
+International Classification => (71) 
+Abstract => Sensors  fro motor and a 
+reference position sensor are integrated in a 
+sensor magnet for detection. An annular sensor 
+magnet 11U,11V, and 11W for motor and with a 
+magnetized zone M2 corresponding to a reference 
+positions sensors 12. the individual magnetized 
+portions of the magnetized zone M2 are shifted as 
+a whole in a leftward direction by a distance D 
+from the magnetized zone M1. however, the 
+direction of shifting has been partly reversed. 
+Specifically, the magnetized portion 23 of the 
+magnetized zone M2 is shifted in the right 
+direction so that the magnetized portion 24 and 
+25 are narrowed accordingly. In this magnetized 
+structure, the level of an output of the reference 
+position sensor 12 is determined by generating 
+triggers E1 to E6 on the rising edges of the sensor 
+11 W for motor. Since the level is determined to 
+be Low only at one position, the output of the 
+reference position sensor is fetched based on the 
+determination. 
+ 
+Figure :  3 
+ 
+ 
+ 
+

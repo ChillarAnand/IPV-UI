@@ -1,0 +1,24 @@
+Date of filing of application number => 15/02/2001
+Title => TOPICAL COMPOSITIONS COMPRISING AN OPIOID ANALGESIC  
+                                       AND AN NMDA ANTAGONIST 
+ 
+
+International Classification => A 61 K 31/485 (71) 
+Abstract => A topical opioid paradigm was developed to determine analgesic peripheral effects of morphine. 
+Topical morphine as well as peptides such as [D-Ala2,MePhe4,Gly(ol)5]enkephalin (DAMGO) 
+produced a potent, dose-dependent analgesia using the radiant heat tailflick assay. The topical drugs 
+potentiated systemic agents, similar to the previously established synergy between peripheral and 
+central sites of action. Local tolerance was rapidly produced by repeated daily topical exposure to 
+morphine. Topical morphine tolerance was effectively blocked by the N-Methyl-D-Aspartate 
+(NMDA) receptors antagonist MK801 and ketamine given either systemically or topically. NMDA 
+receptor antagonists reversed pre-existing morphine tolerance. The activity of topical NMDA 
+antagonists to block local morphine tolerance suggests that peripheral NMDA receptors mediate 
+topical morphine tolerance. Morphine was cross tolerant to [D-Ala2,MePhe4,Gly(ol)5]enkephalin 
+(DAMGO), but not to morphine-6 beta -glucuronide, implying different mechanisms of action. 
+These observations have great importance in the design and use of opioids clinically. Topical 
+pharmaceutical compositions comprising an analgesic that functions through an opiate receptor and 
+an NMDA receptor antagonist for producing analgesia without inducing tolerance are described. 
+ 
+Figure: NIL.
+ 
+

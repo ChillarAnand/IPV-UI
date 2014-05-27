@@ -1,0 +1,18 @@
+Date of filing of application number => 27/07/2001
+Title => A MULTIMODE FIBER AND METHOD FOR FORMING IT 
+ 
+
+International Classification => G 02 B 6/10 (71) 
+Abstract => A multimode optical fiber (10) having a first laser 
+bandwidth greater than 220MHz.km in the 850nm 
+window, a second laser bandwidth greater than 
+500MHz.km in the 850nm window, and a second 
+OFL bandwidth of at least 500MHz.km in the 
+300nm window is disclosed. The multimode fiber 
+is capable of operating telecommunication systems 
+employing both LED power sources and high 
+power laser sources. Method of making and testing 
+the multimode optical fiber are also disclosed.   
+ 
+  
+

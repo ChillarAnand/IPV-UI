@@ -1,0 +1,21 @@
+Date of filing of application number => 27/04/2001
+Title => ORGANOPHOSPHOROUS COMPOUNDS AND THE USE THEREOF 
+ 
+
+International Classification => C 07 F 9/38,  
+Abstract => The invention relates to organophosphorous compounds of general formula (I) wherein A 
+corresponds to general formula (II), wherein one or more of the carbon atoms, selected from the 
+group C3, C4, C5 and their respective substituents can be omitted, and at least one substituent of B1 to 
+B10 is a C3-8 cycloalkyl C0-9 alkyl group, wherein both the C3-8 cycloalkyl group and the C0-9 alkyl 
+group can have one or more double bonds and one or two carbon atoms of the cycloalkyl group can 
+be substituted by nitrogen, oxygen or sulfur atoms, and wherein both the cycloalkyl group and the 
+alkyl group can be substituted by hydrogen, halogen amine, oxo groups with branched or unbranched 
+C1-9 alkyl groups and C2-9 alkenyl groups, wherein the C1-9 alkyl groups and C2-9 alkenyl groups can 
+be substituted by hydrogen, hydroxy, amine, halogen, and oxo groups. The invention further relates 
+to pharmaceutical preparations containing said compounds and to the use thereof for the therapy and 
+prophylaxis of infectious processes in humans and animals, which processes are induced by bacteria, 
+fungi or parasites. The inventive compounds are also used as fungicidal, bactericidal or herbicidal 
+agents in plants. 
+ 
+Figure: NIL.
+

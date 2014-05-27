@@ -1,0 +1,31 @@
+Date of filing of application number => 24/10/2001
+Title => EXPRESSION OF HEPARIN-BINDING PROTEIN IN 
+RECOMBINANT MAMMALIAN CELLS 
+ 
+
+Priority Doc No => 1. 60/131,574 
+International Classification => C07K 14/47 
+Name of priority country => 1. USA, 
+International Application Number => PCT/DK00/0021
+International Publication Number => WO 00/66627 
+Name of inventor => 1. FLODGAARD HANS JAKOB 
+2. RASMUSSEN POUL BAAD 
+3. SVENDSEN IVAN 
+ 
+ 
+ 
+Filed U/S 5(2) before The  
+Patents (Amendment)  
+Ordinance, 2004: NO 
+ 
+
+Abstract => The present invention relates to a method for producing a mammalian heparin-binding protein in 
+a mammalian cell that can be cultured under anaerobic conditions after introducing a nucleic acid encoding as 
+heparin-binding protein into said cell with comprising (a) introducing into said mammalian cell a nucleic acid 
+encoding said heparin-binding protein; (b) culturing the cell of step (a) under conditions conducive to 
+expression of said HBP; and (c) recovering said HBP from the culture medium.  Furthermore, the invention 
+relates to the recombinant mammalian cell used in the method. 
+(FIG.) 
+Total Pages: 28. 
+ 
+

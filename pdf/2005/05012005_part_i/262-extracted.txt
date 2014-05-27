@@ -1,0 +1,28 @@
+Date of filing of application number => 25/06/2001
+Title => METHOD IN A TELECOMMUNICATION SYSTEM 
+ 
+
+International Classification => H 04 B 7/005 (71) 
+Abstract => The present invention relates to a method for downlink 
+power control in the base station of a code division 
+multiple access (CDMA) communication system. The 
+total assigned downlink power from the base station is 
+adjusted to a maximum downlink power level by means 
+of individually adjusting the assigned bit rates of an 
+appropriately selected subset of downlink channels to 
+those users having a data communication connection. 
+Said subset is retrieved by applying suitable selection 
+criterions for the downlink channel, e.g., the 
+momentarily assigned bit rate, the reported pathloss, or 
+the user subscription type. 
+ 
+Figure : 02. 
+ 
+TOTAL PAGES : 21. 
+ 
+  
+ 
+ 
+ 
+ 
+

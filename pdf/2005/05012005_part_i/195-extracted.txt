@@ -1,0 +1,32 @@
+Date of filing of application number => 24/04/2001
+Title => A MOBILE STATION, EQUIPMENT FOR CONNECTION TO A MOBILE  
+                                       STATION, SWITCHING SYSTEMS IN MOBILE COMMUNICATIONS  
+                                       SYSTEMS 
+ 
+
+International Classification => H 04 Q 7/22, 7/32 (71) 
+Abstract => The present invention relates to a mobile station 
+(MS), a method and a node (MS, HLR, MSC, 
+VLR) in a mobile communications system 
+(PLMN). In a system of this nature, it is 
+possible that several transactions (TCH, 
+USSD1, USSD2) are in progress at one and the 
+same time, i.e. are ongoing in parallel with a 
+mobile station (MS). One problem is that a user 
+of the mobile station (MS) will become 
+mentally stressed by receiving information from 
+several sources over different transactions at 
+one and the same time. Another problem is that 
+a USSD transaction degrades the quality of a 
+typical speech connection (TCH) which is 
+ongoing in parallel. One solution is to register 
+beforehand an admission which states whether a 
+transaction can be set up or not. When a request 
+for a new transaction (TCH, USSD1, USSD2) is 
+received, the user admission is checked and the 
+requested transaction inhibited in accordance 
+with said admission. 
+  
+ 
+Figure: 1. 
+

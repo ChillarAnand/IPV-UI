@@ -1,0 +1,39 @@
+Date of filing of application number => 24/09/2001
+Title => SELECTIVE SPOOFER AND METHOD OF PERFORMING 
+SELECTIVE SPOOFING  
+ 
+
+International Classification => H04L 29/06 
+Name of inventor => 1. BORDER JOHN L.  
+2.
+ 
+BUTEHORN MATTHEW  
+ 
+  
+ 
+ 
+
+Abstract => A method and apparatus for enhancing 
+the performance of a network by performing selective 
+spoofing. Selective spoofing provides the ability to 
+discriminate among different connections and only 
+allocate spoofing resources to those connections for 
+which spoofing will actually improve performance. The 
+selective spoofing functison described are applicable to 
+a wide variety of communication links, including both 
+slow and fast links, high latency links, and links with low 
+and high error rates. The selective spoofing functions 
+may be implemented either alone or in combination with 
+other performance enhancing features, such as, 
+spoofing the conventional TCP three-way handshake, 
+local data acknowledgement, multiplexing multiple 
+connections across a single connection, data 
+compression/encryption, prioritization, and path 
+selection. The selective spoofing features described are 
+particularly useful for links with high latency and/or high 
+bit error rates. 
+ 
+  
+Figure: 2. 
+Total Pages: - 19 
+

@@ -1,0 +1,29 @@
+Date of filing of application number => 26/09/2001
+Title => APPARATUS FOR MEASURING THE PROPERTIES OF AN OPTICAL FIBER 
+ 
+
+Priority Doc No => 1) 60/128,504 
+Name of priority country => U.S.A.  
+International Publication Number => WO 00/62033  
+Abstract => Disclosed is an apparatus for measuring the 
+properties of an optical waveguide fiber. The 
+apparatus is free of apertures, lenses, and 
+mirrors usually required in the measurement of 
+certain waveguide fiber properties. The 
+apparatus employs an optical switch at the 
+launch end of the optical fiber to be tested and 
+another optical switch at the output end of the 
+optical fiber to be tested. The switches 
+preserve the mode power distribution, 
+particularly the spot size, of light passing 
+therethrough. The apparatus may be used to 
+measure bandwidth or attenuation of a 
+multimode waveguide fiber, both of which are 
+affected by launched and detected mode power 
+distribution. 
+  
+ 
+ 
+(FIG.: 1) 
+Total Pages: 10.
+

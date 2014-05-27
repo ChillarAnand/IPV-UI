@@ -1,0 +1,13 @@
+Date of filing of application number => 06/11/2001
+Publication date => 20/09/2001
+Title => APPARATUS AND METHOD FOR EFFEICIENT TDMA 
+BANDWIDTH ALLOCATION FOR TCP/IP SATELLITEBASED 
+NETWORKS  
+ 
+
+Priority Doc No => 60/188,375 
+Priority date => 10/03/2000
+International Classification => H04B 7/00 
+Name of priority country => USA 
+International Application Number => PCT/US01/0656
+International Publication Number => WO 01/69813 

@@ -1,0 +1,27 @@
+Date of filing of application number => 28/09/2001
+Title => NOVEL LIGANDS FOR CHIRAL CATALYSIS 
+ 
+
+Priority Doc No => 9907895.8  
+Priority date => 08/04/1999
+Name of priority country => GREAT 
+International Publication Number => WO 00/61589  
+Abstract => Novel phosphine oxazoline ligands of formula (I) wherein m is 1, 2, 3 or 4; n, p, q, r are independently zero or 1 
+provided that at least one of n, p, q and r is 1; X is O, S, Se, CH2, NH; Y is N, P, As, S; R is H; a straight-chain 
+alkyl group, a branched-chain alkyl group or a cyclo alkyl group optionally substituted by one or more groups 
+independently selected from alkyl, aryl, halo, alkoxy, amine, phosphine and ether groups; an aryl group optionally 
+substituted by one or more groups independently selected from alkyl, aryl, halo, alkoxy, amine, phosphine and 
+ether groups; ferrocenyl; a thioalkyl group; a thioaryl group; or R is derived from a hydrocarbyl group attached to a 
+functional group of an organic compound or a polymer capable of giving rise to the grouping -N-C-X- in the ring 
+structure of (I); R1 to R13 are independently selected from H; a straight-chain alkyl group, a branched-chain alkyl 
+group or a cyclo alkyl group optionally substituted by one or more groups independently selected from alkyl, aryl, 
+halo, alkoxy, amine, phosphine and ether groups; an aryl group optionally substituted by one or more groups 
+independently selected from alkyl, aryl, halo, alkoxy, amine, phosphine and ether groups; with the proviso that 
+when m is 1, one of n, p, q and r is 1 the remaining three being zero, X is O, Y is P, R1 and R2 are both H, R3 to R11 
+if present are H, and R12 and R13 are both phenyl, then R is not CH3, C(CH3)3, CHPh2, CPh3, adamantyl, C6H3(t-
+Bu)2, ferrocenyl, CF3, Ph, C6H4OMe, C6H4Me, C6H4NO2 or C6F5, a process for the preparation thereof, metal 
+complexes containing such ligands and the use of such complexes, or combinations of ligand with metal salts or 
+complexes, as catalysts for asymmetric syntheses. 
+(FIG.: NIL) 
+Total Pages: 20. 
+

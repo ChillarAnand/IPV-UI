@@ -1,0 +1,22 @@
+Abstract => A method suitable for detecting the onset of 
+colloid formation within a solution whose composition is in a 
+state of change, which method makes use of the technique of 
+acoustophoresis and which comprises the steps of either (I) 
+applying an oscillating electric field to the solution and 
+monitoring the amplitude of the resultant acoustic signal, the 
+onset of colloid formation being detected by a change in the 
+amplitude of the resultant acoustic signal, or (ii) applying an 
+oscillating acoustic signal to the solution and monitoring the 
+resultant oscillating electric field, the onset of colloid formation 
+being detected by a change in the amplitude of the resultant 
+oscillating electric field, or (iii) applying an oscillating electric 
+field to the solution and monitoring the resultant oscillating 
+electric field, the onset of colloid formation being detected by a 
+change in the amplitude of the resultant oscillating electric 
+field. 
+ 
+ (FIG.- 1.) 
+Total Pages: 15. 
+ 
+ 
+

@@ -1,0 +1,29 @@
+Date of filing of application number => 10/10/2001
+Title => A TUNING ARRANGEMENT 
+ 
+
+Priority Doc No => 9901367.4   
+Priority date => 14/04/1999
+Name of priority country => SWEDEN  
+International Publication Number => WO 00/62369   
+Abstract => The present invention relates to an arrangement in a 
+cavity filter for tuning the frequency relationship of 
+the filter or its coupling coefficient factor. The 
+arrangement includes a self-locking screw that can be 
+fitted in the filter cavity, for instance in the centre 
+conductor, in the filter lid, or in some suitable place in 
+the filter chassis. Tuning is effected by adjusting the 
+position of the screw in relation to the centre 
+conductor or lid of the cavity filter. The screw can be 
+made of metallic segments embedded in plastic, or 
+made completely of metal, and provided with a 
+radially through-penetrating slot. At least one part of 
+the screw has a cross-sectional area whose extension 
+perpendicular to the through-penetrating slot is 
+slightly greater than in a direction along said slot. 
+  
+ 
+ 
+(FIG.: 3) 
+Total Pages: 23.
+

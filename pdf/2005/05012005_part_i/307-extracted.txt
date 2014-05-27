@@ -1,0 +1,25 @@
+Date of filing of application number => 01/08/2001
+Title => LASER OPTIMIZED MULTIMODE FIBER AND METHOD FOR 
+USE WITH LASER AND LED SOURCES AND SYSTEM 
+EMPLOYING SAME 
+ 
+
+Priority Doc No => 60/121,169  
+Priority date => 22/02/1999
+Name of priority country => U.S.A.  
+International Publication Number => WO 00/50941 (72) 
+Abstract => A multimode optical fiber (10) having a first laser bandwidth greater 
+than 220 MHz.km in the 850 nm window, a second laser bandwidth 
+greater than 500 MHz.km in the 1300 nm window, a first OFL 
+bandwidth of at least 160 MHz.km in the 850 nm window, and a second 
+OFL bandwidth of at least 500 MHz.km in the 1300 nm window is 
+disclosed. 
+ 
+(FIG.: 1) 
+Total Pages: 30. 
+  
+ 
+ 
+  
+ 
+

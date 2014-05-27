@@ -1,0 +1,23 @@
+Date of filing of application number => 08/10/2001
+Title => FILTER 
+ 
+
+Priority Doc No => 9901365-8   
+Priority date => 16/04/1999
+Name of priority country => SWEDEN  
+International Publication Number => WO 00/64000   
+Abstract => A filter comprises a first end (6), a second end (8), a conducting casing (4), at least one central conductor (16), and 
+connecting means (3a, 3b) at each of the ends (6, 8), the casing (4) extending along an imaginary axis (A) and is 
+intended to accommodate the conductor (16) along this imaginary axis (A), and further the conductor (16) is provided 
+with capacitance generating portions (20, 24, 28, 32) and inductance generating portions (22, 26, 30), the connecting 
+means (3a) at the first end (6) of the filter comprising a first connecting member (10) connected to the casing (4) and a 
+second connecting member (17) connected to the conductor (16), the connecting means (3b) at the second end (8) of 
+the filter comprising a third connecting member (13) connected to the casing (4) and a fourth connecting member (37) 
+connected to the conductor (16). According to the invention both the second and the fourth connecting members (17, 
+37) are provided integrally with the conductor (16). 
+(FIG.: 3) 
+Total Pages: 14.
+ 
+ 
+ 
+

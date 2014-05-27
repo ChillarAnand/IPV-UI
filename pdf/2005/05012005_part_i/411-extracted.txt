@@ -1,0 +1,21 @@
+Abstract => A wireless communication system includes a 
+multi-functional portable device and more than one host systems 
+so as to accomplish various functions. The portable device 
+performs at least one specific function with a host system and 
+the host system has a transceiver and a host apparatus. 
+Specifically, in order to achieve the purposes, the portable 
+device includes a storage unit for storing at least a portion of 
+information required in performing the specific function and a 
+transceiver unit for transmitting the information to the host 
+system in a form of an encrypted signal. The transceiver includes 
+a control unit for decrypting the encrypted signal to reconstruct 
+the information and a data interfacing unit for providing the 
+reconstructed information to the host apparatus. 
+ 
+  
+ 
+(FIG.) 
+   
+Total Pages: 38. 
+ 
+

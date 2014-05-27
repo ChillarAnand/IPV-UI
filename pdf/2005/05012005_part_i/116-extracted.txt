@@ -1,0 +1,26 @@
+Date of filing of application number => 18/01/2001
+Title => METHODS AND COMPOSITIONS FOR THE 
+DETERMINATION OF PROTEIN FUNCTION AND 
+IDENTIFICATION OF MODULATORS THEREOF 
+ 
+
+International Classification => C12Q 1/68 
+Name of inventor => 1. MENZEL ROLF 
+2. KHAZAK VLADIMIR 
+ 
+ 
+  
+ 
+ 
+ 
+
+Abstract => The present invention provides libraries of tag dominant-negative elements (TDNE) and 
+methods enabling the identification of specific TDNEs that act as dominant-negative elements on a target 
+protein of interest.  The present invention further relates to the use of such TDNEs and dominant-negative 
+elements for the identification of protein-protein interactions, and the determination of a target protein’s 
+biological activity and function.  Furthermore, the present invention relates to the development of means, 
+including small molecule compounds, for disrupting the target protein’s biological function and activity. 
+  
+Figure: NIL. 
+ 
+

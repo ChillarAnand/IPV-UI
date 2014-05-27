@@ -1,0 +1,24 @@
+Abstract => Rapid screening for activities and selectivities of 
+catalyst libraries having addressable test sites is 
+achieved by contacting potential catalysts at the test 
+sites with reactant streams forming product plumes at 
+the addressable test sites. The product plumes are 
+screened by translating a sample probe and/or the 
+library to a position that one addressable site is in 
+proximity to the sampling probe sample orifice and 
+passing a portion of the reaction products through the 
+sampling orifice forming a free jet expanded volume 
+in at least one vacuum stage and passing a portion of 
+the cooled and reduced pressure jet stream through 
+an inlet orifice of a mass spectrometer for analysis. 
+The mass spectrometric analysis may be combined 
+with resonance enhanced multiphoton ionization 
+methods of detection for very rapid library 
+evaluation. Suitable reactors, microreactors, and 
+product transfer sample microprobes for product 
+transfer to a mass spectrometer are disclosed. 
+  
+ 
+ 
+Figure: 29. 
+

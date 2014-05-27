@@ -1,0 +1,34 @@
+Date of filing of application number => 11/10/2001
+Title => PERFORMANCE ENHANCING PROXY AND METHOD FOR ENHANCING PERFORMANCE 
+ 
+
+Priority Doc No => 1) 60/185,553 
+Name of priority country => U.S.A.  
+International Publication Number => WO 01/65805 A2  (72) 
+Abstract => Method and apparatus for enhancing the 
+performance of a network. The performance 
+enhancing functions described are applicable 
+to a wide variety of communication links, 
+including both slow and fast links, high 
+latency links, and links with low and high 
+error rates. The performance enhancing 
+functions, which may be implemented either 
+singly or in combination, include selective 
+spoofing which allows flexible configuration 
+of which connections should be spoofed, 
+spoofing of the conventional TCP three-way 
+handshake, local data acknowledgement, 
+which allows data windows to increase at local 
+speeds, multiplexing multiple connections 
+across a single connection, data 
+compression/encryption, prioritization, and 
+path selection. The performance enhancing 
+features described are particularly useful for 
+links with high latency and/or high bit error 
+rates. 
+  
+ 
+ 
+(FIG.: 3) 
+Total Pages: 37. 
+

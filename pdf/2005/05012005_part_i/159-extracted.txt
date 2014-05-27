@@ -1,0 +1,41 @@
+Date of filing of application number => 20/03/2001
+Title => MANAGEMENT OF SPOTBEAM SELECTION INFORMATION 
+IN SATELLITE MOBILE COMMUNICATION SYSTEMS 
+ 
+
+International Classification => H04B 7/204 
+Name of inventor => 1. KOLEV JAVOR 
+2.
+ 
+SWANCHARA ANTHONY 
+3. PANTALONE BRETT 
+ 
+ 
+  
+ 
+ 
+ 
+
+Abstract => A user terminal is operable to acquire 
+service in a satellite mobile communication network in 
+which plural service providers each communicate via 
+satellite with users on one or more spotbeams each 
+having a select frequency. The user terminal comprises a 
+communication system including a transmitter and a 
+receiver for communicating via a spotbeam. A memory 
+stores frequency information. The frequency 
+information identifies carrier frequencies associated 
+with the spotbeams in the network. The memory further 
+stores identification information identifying a service 
+provider associated with each carrier frequency. A 
+communication controller is operatively associated with 
+the communication system and the memory for selecting 
+a spotbeam carrier frequency to communicate on, the 
+communication controller utilizing identification 
+information to select the spotbeam carrier frequency. 
+ 
+Figure: 4. 
+ 
+  
+TOTAL PAGES: - 18. 
+

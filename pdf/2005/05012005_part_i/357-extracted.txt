@@ -1,0 +1,26 @@
+Date of filing of application number => 04/10/2001
+Title => AGROCHEMICAL COMPOSITION 
+ 
+
+Priority Doc No => 9907669.7   
+Priority date => 01/04/1999
+Name of priority country => GREAT BRITAIN  
+International Publication Number => WO 00/59302   
+Abstract => CR16R17-O- 
+|
+ 
+CR18-(R21)d-O-(R8O)b-R9-NR10R11 
+|       (1) 
+CR19R20-O-(R12O)c-R13-NR14R15 
+ 
+An aqueous agrochemical composition comprises an agrochemical active ingredient such as glyphosate, 
+paraquat or fomesafen and an adjuvant of formula (I): X-(R3O)a-R4-N R2R1 and salts thereof, wherein R1 
+and R2 are independently hydrogen or a lower alkyl group or a group X-(R3O)a-R4- wherein X is -OH or a 
+lower alkoxy group; R3O is an ethoxy, propoxy or butoxy group or a random or block mixture thereof; R4 
+is a linear or branched chain alkylene bridging group containing from 1 to 4 carbon atoms; X is (IA) -OH 
+or a lower alkyloxy group; or (IB) a group R5R6N- or R5R6N-R7-; or (IC) a group (1) wherein a, is from 1 
+to 400 or if X is of formula IC, the sum of a, b and c is from 3 to 400 and d is 0 or 1. 
+ 
+(FIG.: NIL) 
+Total Pages: 16.
+

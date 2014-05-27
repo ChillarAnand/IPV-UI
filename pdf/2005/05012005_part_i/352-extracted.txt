@@ -1,0 +1,28 @@
+Date of filing of application number => 28/09/2001
+Title => LOW WATER PEAK OPTICAL WAVEGUIDE FIBER AND METHOD OF MANUFACTURING SAME 
+ 
+
+Priority Doc No => 60/131,033  
+Priority date => 26/04/1999
+Name of priority country => U.S.A.  
+International Publication Number => WO 00/64825  (72) 
+Abstract => A cylindrical glass body having a low water content 
+centerline region and method of manufacturing such a 
+cylindrical glass body for use in the manufacture of 
+optical waveguide fiber is disclosed. The centerline 
+region of the cylindrical glass body has a water content 
+sufficiently low such that an optical waveguide fiber 
+made from the cylindrical glass body of the present 
+invention exhibits an optical attenuation of less than 
+about 0.35 dB/km, and preferably less than about 0.31 
+dB/km at a measured wavelength of 1380nm. A low 
+water content plug (46, 54) used in the manufacture of 
+such a cylindrical glass body, an optical waveguide fiber 
+having a low water peak, and an optical fiber 
+communication system incorporating such an optical 
+waveguide fiber is also disclosed. 
+(FIG.: 5A) 
+Total Pages: 45. 
+  
+ 
+

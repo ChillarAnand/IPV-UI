@@ -1,0 +1,13 @@
+Date of filing of application number => 01/01/2001
+Title => METHODS OF SEPARATING CATALYST IN SOLUTION FROM A  
+                                       REACTION MIXTURE PRODUCED BY OXIDATION OF  
+                                       CYCLOHEXANE TO ADIPIC ACID 
+ 
+
+International Classification => C 07 C 51/31,  
+Abstract => This invention  relates to methods of controlling the oxidation of cyclohexane to adipic acid in the 
+presence of a monobasic acid solvent by separating the catalyst from the reaction mixture, outside 
+the reaction zone. Substantially all the unreacted cyclohexane, the majority of adipic acid, and 
+substantially all the monobasic acid solvent are preferably removed. A protic solvent, may be added 
+intermittently or continuously in the reaction mixture during the removal of the monobasic acid 
+

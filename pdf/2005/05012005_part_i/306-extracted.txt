@@ -1,0 +1,26 @@
+Date of filing of application number => 01/08/2001
+Title => DATA TRANSMISSION/ RECEPTION SYSTEM 
+ 
+
+Priority Doc No => P11-350865  
+Priority date => 09/12/1999
+Name of priority country => JAPAN  
+International Publication Number => WO 01/43432 (72) 
+Abstract => A command packet (C2) including a version 
+command for checking a profile is sent from a 
+data transmitter (STB) to a data receiver 
+(printer), and a response packet (R2) including 
+the resulting profile information is sent from 
+the data receiver to the data transmitter. The 
+data transmitter sends the data receiver a data 
+packet (S2) including the image data 
+corresponding to the profile information. Thus, 
+a controller can quickly check the state of a 
+device to be controlled. 
+ 
+(FIG.: 27) 
+Total Pages: 72 
+  
+ 
+ 
+

@@ -1,0 +1,28 @@
+Date of filing of application number => 19/04/2001
+Title => APPARATUS FOR PERFORMING WAVELENGTH-CONVERSION  
+                                       USING PHOSPHORS WITH LIGHT EMITTING DIODES 
+ 
+
+International Classification => H 01 J 1/62, 40/16 (71) 
+Abstract => An apparatus (500), comprises an active region 
+(530), a phosphor layer (550) and a reflective layer 
+(520). The active region is configured to emit light 
+having a first band of wavelengths from a first group 
+of wavelengths. The phosphor layer is disposed 
+between and in contact with the active region and an 
+exterior medium. The phosphor layer is configured to 
+convert the first band of wavelengths of light emitted 
+from the active region to a second band of 
+wavelengths. A center wavelength of the second 
+band of wavelengths is greater than a center 
+wavelength of the first band of wavelengths. The 
+reflective layer is optically coupled to the active 
+region. The active region is disposed between the 
+reflective layer and the phosphor layer. The reflective 
+layer is configured to reflect at least the first band of 
+wavelengths and the second band of wavelengths. 
+  
+ 
+ 
+Figure: 5. 
+

@@ -1,0 +1,82 @@
+Application number => 814/MUM/2003
+Date of filing of application number => 18/08/2003
+Title => FOUR-CYCLE ENGINE. 
+       
+
+International Classification => (71) 
+Abstract => To realize downsizing of an engine with motor ACG and suppress increment in friction due to excessive power generation. 
+ 
+Magnet 18 are provided on an outer periphery of a driving-side pulley 11 of a V-belt continuously variable transmission thereby the pulley is used as a rotor 39 
+of a motor ACG 33.  A stator 19 is provided around the rotor 39.  In accordance with increment in the number of engine revolutions, the position of the rotor 39 
+to the stator 19, i.e., the position of a movable pulley member 112 changes and an area of the stator 19 opposite to the rotor 39 is reduced, thus the rate of 
+increment in power generation amount is reduced. 
+ 
+ 
+Figure: NIL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Publication After 18 months 
+ 
+The following Patent application have been published under Section 11A of the Patents 
+(Amendment) Act, 2002 
+ 
+(21) Application No.: 
+       
+814/MUM/2003          A  (22) Date of filing of Application : 
+    
+18/08/2003 
+ 
+ 
+(54) Title of the invention :  FOUR-CYCLE ENGINE. 
+       
+(51) International classification:  (71) 
+(30) Priority Data :   
+(31) Document No.:  2002-267178  
+(32) Date                :  12/09/2002  
+(33) Name of convention country : JAPAN  
+ (66) Filed U/s. 5(2) : NO.  
+(61) Patent of addition to application No.:  NIL           
+(62) Filed on : N.A.  
+(63) Divisional to Application No.: NIL (72)  
+ 
+(64) Filed on :  N.A. 
+ 
+ 
+ 
+Name of the Applicant:  
+ 
+HONDA GIKEN KOGYO KABUSHIKI KAISHA. 
+ 
+Address of the Applicant: 
+ 
+1-1, MINAMIAOYAMA 2-CHOME, 
+MINATO-KU, TOKYO, 
+JAPAN. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Name of the Inventors: 
+ 
+01. KOICHI TSUTSUMI 
+02. HIDETOSHI TAKAMATSU 
+03.
+ 
+ITOKO KOBAYASHI 
+04. RYUICHI ABE 
+ 
+  
+ 
+
