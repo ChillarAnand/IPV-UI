@@ -1,10 +1,9 @@
-#1. About
-#2. Files
-#3. Configuration
+## UI prototype built with PHP & Ajax
 
-#1. About: UI FOR MANUAL VERIFICATION OF IN. PATENT DATA, EXTRACTED FROM JOURNAL PDF
 
-#2. FILES
+### 1. About: UI FOR MANUAL VERIFICATION OF IN. PATENT DATA, EXTRACTED FROM JOURNAL PDF
+
+### 2. FILES
 index.php           - controller for index.tmpl.php, functions.php.
 index.tmpl.php      - html views.
 functions.php       - all function definitions.
@@ -13,5 +12,5 @@ fetch_extracted.php - fetches the first extracted txt file from the speicified p
 save_verified.php   - saves the verified text.
 config.php          - configuration options.
 
-#3. Configuration
+### 3. Configuration
 Set "$pdf_path" to journal address 
